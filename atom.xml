@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-08-04T05:45:34.714Z</updated>
+    <updated>2022-03-27T08:34:55.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -10,6 +10,234 @@
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[24.WordPress响应式主题Memory]]></title>
+        <id>https://612901.github.io/post/24wordpress-xiang-ying-shi-zhu-ti-memory/</id>
+        <link href="https://612901.github.io/post/24wordpress-xiang-ying-shi-zhu-ti-memory/">
+        </link>
+        <updated>2022-08-04T06:00:10.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="title-0">主题一览</h4>
+<p><a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593032610.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593032610.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593242749.jpg)" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593242749.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593372664.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593372664.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593084099.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="(https://612901.github.io/post-images/1659593084099.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593114361.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593114361.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593127136.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593127136.jpg" /></a><br />
+<a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593138575.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659593138575.jpg" /></a><br />
+主题特性：</p>
+<blockquote>
+<ol>
+<li>多种文章形式，支持说说，豆瓣评论</li>
+<li>前台登录注册功能</li>
+<li>pjax局部无刷新</li>
+<li>集成多项小工具：最近访客、最近评论、标签云</li>
+<li>内容分享、打赏</li>
+<li>面包屑导航</li>
+<li>评论头衔、邮件回复</li>
+<li>SEO设置、维护模式</li>
+</ol>
+</blockquote>
+<p>主题现在分免费版与付费版，免费版为3.x.x，付费版为4.x.x。免费版主题已经正式发布，下载地址：<a href="https://github.com/ShawnZeng1996/Memory" target="_blank" rel="noopener" rel="nofollow" >Github</a>，下载后请解压，修改文件夹名为Memory再重新压缩进行安装。</p>
+<h3>安装环境要求</h3>
+<p>PHP5.6+，wordpress4.8+。</p>
+<p>3.0.0主题更新于2018年10月18日</p>
+<p>笔者亲测可用（PHP 7.3，wordpress 5.8.2）</p>
+<p>稍微优化一下还行</p>
+<p><a href="https://img.szfx.top/img/2021/SP_20211114-210016.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/img/2021/SP_20211114-210016.jpg" /></a></p>
+<p>付费版演示网址：<a href="https://o0o0o0.cn/" target="_blank"  rel="nofollow" >https://o0o0o0.cn/</a></p>
+<p>感觉没多大区别，试用时注意备份原主题数据，我的就是更换主题后，原主题设置清空了（可能是原主题没考虑到这个问题）。</p>
+<h3>主题功能配置</h3>
+<p>主题安装成功后，首先需要进入wordpress后台“Memory”中进行相关功能的配置。</p>
+<h3>添加菜单</h3>
+<p>进入WordPress后台，外观-&gt;菜单，如果没有建立菜单需要新建一个菜单，<strong>否则菜单的样式可能会出问题</strong>。可将内容添加到菜单。</p>
+<h3>添加菜单小图标</h3>
+<p>进入WordPress后台，“Memory-&gt;自选图标”，自己挑选喜欢的图标。然后再在菜单标题中添加对应的&lt;i class=&#8221;memory memory-***&#8221;&gt;&lt;/i&gt; 菜单标题即可。(这里的引号是英文引号，请不要直接复制)</p>
+<h3>发布说说</h3>
+<p>进入WordPress后台，“说说-&gt;新建说说”，即可发布一条说说。前台只显示说说内容，说说理论上可以不写标题，但是我不保证不会有什么问题出现2333</p>
+<h3>创建文章归档、友链页面</h3>
+<p>免费版主题自V1.1.0起就会在主题启用时自动文章归档、友链的页面，您可以在wordpress后台“页面”中看到他们。当然如果您发现没有这些界面，也可以通过创建普通页面，然后模板选择 文章归档/友链 从而创建这些页面。友链的添加，需要在wordpress后台“链接”一栏中添加链接，必填项为名称、Web地址、图像描述（即对博客的描述）、高级-&gt;备注（填写邮箱地址以使用gravatar头像）。</p>
+<h3>文章书写</h3>
+<blockquote><p>这是一段引用（blockquote标签）</p></blockquote>
+<p>由于个人习惯，主题默认是从h3（三级标题）做起的，同样也建议使用者从三级标题开始使用，效果如下：</p>
+<blockquote>
+<h2>这是一个2级标题</h2>
+<h3>这是一个3级标题</h3>
+<h4>这是一个4级标题</h4>
+</blockquote>
+<p>这是一个span</p>
+<h3>列表</h3>
+<blockquote><p>无序列表</p>
+<ul>
+<li>项目1</li>
+<li>项目2</li>
+<li>项目3</li>
+</ul>
+<p>有序列表</p>
+<ol>
+<li>项目1</li>
+<li>项目2</li>
+<li>项目3</li>
+</ol>
+</blockquote>
+<h3>插入代码</h3>
+<p>在文本编辑模式下，可插入&lt;pre&gt;&lt;code class=&#8221;language-代码语言 line-numbers&#8221;&gt;代码内容&lt;/code&gt;&lt;/pre&gt;来添加代码。(仅老版编辑器存在这些按钮)</p>
+<blockquote><p>注意：这里插入html代码的时候，请先到 html转义工具 将代码进行转义之后再插入代码。另</p></blockquote>
+<p>代码demo如下：</p>
+<pre class="line-numbers"><code class="language-css">p { color: red }</code></pre>
+<h3>链接</h3>
+<p>主题支持三种链接样式，具体为：<a href="https://shawnzeng.com/wordpress-theme-memory-course-free#" target="_blank"  rel="nofollow" >普通链接</a>、<a class="no-des" href="https://shawnzeng.com/wordpress-theme-memory-course-free#" target="_blank"  rel="nofollow" >无修饰链接</a>、<a class="at" href="https://shawnzeng.com/wordpress-theme-memory-course-free#" target="_blank" rel="noopener noreferrer" rel="nofollow" >链接</a>。他们的代码分别如下：</p>
+<pre class="line-numbers"><code class="language-html">&lt;a href=&quot;链接地址&quot;&gt;普通链接&lt;/a&gt;
+&lt;a class=&quot;no-des&quot; href=&quot;链接地址&quot;&gt;无修饰链接&lt;/a&gt;
+&lt;a class=&quot;at&quot; href=&quot;链接地址&quot;&gt;链接&lt;/a&gt;</code></pre>
+<p>在文本编辑模式中，普通链接可点击“link”按钮添加，无修饰链接可点击“no_des_link”按钮添加，at链接可点击“at_link”按钮添加。(仅老版编辑器存在这些按钮)</p>
+<h3>小工具</h3>
+<p>在wordpress后台“外观-&gt;小工具”中将自己需要的小工具拖到“萌萌哒侧边栏”中进行使用。</p>
+<h3>音乐播放器</h3>
+<p>本主题侧边栏音乐播放器建议使用<a class="at" href="https://diygod.me/" target="_blank" rel="noopener noreferrer" rel="nofollow" >DIYgod</a>制作的<a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreferrer" rel="nofollow" >APlayer</a>，如果想在侧边栏添加该播放器，可在wordpress后台“外观-&gt;小工具”中添加自定义html小工具即可，标题为空，内容如下：</p>
+<pre class="line-numbers"><code class="language-js">&lt;script src=&quot;//cdn.bootcss.com/aplayer/1.5.8/APlayer.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;aplayer1&quot; class=&quot;aplayer&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var ap = new APlayer({
+    element: document.getElementById(&#039;aplayer1&#039;),
+		autoplay: false,
+    music: {
+        title: &#039;神探&#039;,
+        author: &#039;丁世光&#039;,
+        url: &#039;https://shawnzeng.com/wp-content/uploads/2018/02/丁世光-神探.mp3&#039;,
+	pic: &#039;https://shawnzeng.com/wp-content/uploads/2017/10/音阙诗听.jpg&#039;
+    }
+});
+&lt;/script&gt;</code></pre>
+<p>其中title是歌名，author是歌手，url是歌曲链接，pic是图片，如需添加歌单请查看aplayer相关文档自行修改。</p>
+<h3>更新历史</h3>
+<p><a href="https://shawnzeng.com/memory-version" target="_blank"  rel="nofollow" >WordPress响应式主题Memory版本迭代记录 </a></p>
+<h3>主题使用的插件</h3>
+<p>主题没有依赖任何插件，不过推荐些在使用的插件：IP Blacklist Cloud、WP Statistics、WP User Avatar。有需要的同学可以自行下载。</p>
+<p>本文主要来自：<a href="https://shawnzeng.com/wordpress-theme-memory.html" target="_blank"  rel="nofollow" >https://shawnzeng.com/wordpress-theme-memory.html</a></p>
+<br />
+			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>Memory v3.0 for free</span></font><br>
+				<font color=#000 class="down-price">适用版本：WordPress</font><br>
+				<font color=#000  class="down-ordinary">更新日期：2018-10-18</font><br>
+		    	<font color=#000  class="down-vip">文件大小：11.4 MB</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="Memory v3.0 for free" href="https://www.jishusongshu.com/download.php?id=5312"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23.星辰短域-免费开源网址缩短]]></title>
+        <id>https://612901.github.io/post/23xing-chen-duan-yu-mian-fei-kai-yuan-wang-zhi-suo-duan/</id>
+        <link href="https://612901.github.io/post/23xing-chen-duan-yu-mian-fei-kai-yuan-wang-zhi-suo-duan/">
+        </link>
+        <updated>2022-08-04T05:55:30.000Z</updated>
+        <content type="html"><![CDATA[<p>星辰短域是一个url网址缩短平台。免费开源，下面介绍该项目。</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-5061" src="https://cdn.jishusongshu.com/images/2021/08/urlshorting.jpg?x-oss-process=style/webp" alt="" width="1873" height="875" srcset="https://cdn.jishusongshu.com/images/2021/08/urlshorting.jpg?x-oss-process=style/webp 1873w, https://cdn.jishusongshu.com/images/2021/08/urlshorting-1536x718.jpg 1536w" sizes="(max-width: 1873px) 100vw, 1873px" /></p>
+<p>演示站点：</p>
+<p>1、<a href="http://url.jishusongshu.com/" target="_blank"  rel="nofollow" >http://url.jishusongshu.com/</a></p>
+<p>2、<a href="https://www.k6o.top/" target="_blank"  rel="nofollow" >https://www.k6o.top/</a></p>
+<h2>一、项目配置</h2>
+<h3>（1）安装方法</h3>
+<p>1.下载源码.</p>
+<p>2.上传至你的网站根目录.</p>
+<p>3.访问网站域名填写mysql等信息进行安装</p>
+<p>4.修改网站伪静态配置:</p>
+<p>Nginx:</p>
+<pre><code class="language-c">if (!-e $request_filename) {
+    rewrite ^/(.*)$ /index.php?id=$1 last;
+ }</code></pre>
+<p>Apache:</p>
+<pre><code class="language-c">&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ /index.php?id=$1 [L]
+&lt;/IfModule&gt;
+</code></pre>
+<p>IIS (仅供参考,未进行测试):</p>
+<pre><code class="language-c">&lt;rule name=&quot;tool.apizl.com rewriteTools1&quot; patternSyntax=&quot;ECMAScript&quot; stopProcessing=&quot;true&quot;&gt;
+    &lt;match url=&quot;^/(.*)&quot; ignoreCase=&quot;false&quot; /&gt;
+    &lt;conditions logicalGrouping=&quot;MatchAll&quot; trackAllCaptures=&quot;false&quot; /&gt;
+    &lt;action type=&quot;Rewrite&quot; url=&quot;/index.php?id={R:1}&quot; appendQueryString=&quot;false&quot; /&gt;
+&lt;/rule&gt;</code></pre>
+<h3>（2）其他提示</h3>
+<p>由于某些原因，该源码仍然使用Mysqli连接数据库，可能缺乏一定的安全性，使用时请注意使用WAF等平台进行保护。 该项目目前由k6o.top进行维护</p>
+<h2>二、源码下载</h2>
+<p><a href="https://github.com/soxft/URLshorting" target="_blank"  rel="nofollow" >https://github.com/soxft/URLshorting</a></p>
+<br />
+			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>UrlShorting-2.2.5</span></font><br>
+				<font color=#000 class="down-price">适用版本：PHP</font><br>
+				<font color=#000  class="down-ordinary">更新日期：2021-1-2</font><br>
+		    	<font color=#000  class="down-vip">文件大小：145K</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px;margin-top:-5px;" rel="external nofollow" title="UrlShorting-2.2.5" href="https://www.jishusongshu.com/qq-miniprogram.php?code=rbgiUZRM" id="qrcode_down" target="_blank">点击下载</a></strong><br></p></div><div class="clear"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22.免费博客主题Boxstyle WordPress]]></title>
+        <id>https://612901.github.io/post/22mian-fei-bo-ke-zhu-ti-boxstyle-wordpress/</id>
+        <link href="https://612901.github.io/post/22mian-fei-bo-ke-zhu-ti-boxstyle-wordpress/">
+        </link>
+        <updated>2022-08-04T05:48:57.000Z</updated>
+        <content type="html"><![CDATA[<p>‎推荐一款个人博客主题。在色彩缤纷的侧边栏中，具有独特的盒装风格和左侧的社交链接，您的网站将脱颖而出。‎</p>
+<p>‎Boxstyle是一个灵活的个人博客主题，有很多选择。该主题针对所有设备进行了优化，将通过带有社交链接和标题个人资料图像，名称和描述的独特彩色左栏脱颖而出。它包括一个特色帖子滑块，一个日夜模式开关和三种不同的博客布局：标准，网格和列表。将主题设置为所需的任何宽度和主题色。禁用或启用波形样式。使用左侧或右侧的侧边栏，或完全禁用它 &#8211; 这完全取决于您。演示：<a rel="noreferrer noopener" href="https://demo.alx.media/x/?theme=Boxstyle" target="_blank" rel="nofollow" ></a><a href="http://demo.alx.media/x/?theme=Boxstyle" target="_blank"  rel="nofollow" >AlxMedia &#8211; Boxstyle Demo</a></p>
+<style type="text/css">
+       .errordiv { padding:10px; margin:10px; border: 1px solid #555555;color: #000000;background-color: #f8f8f8; width:500px; }#advanced_iframe_3 {visibility:visible;opacity:1;vertical-align:top;}.ai-info-bottom-iframe { position: fixed; z-index: 10000; bottom:0; left: 0; margin: 0px; text-align: center; width: 100%; background-color: #ff9999; padding-left: 5px;padding-bottom: 5px; border-top: 1px solid #aaa } a.ai-bold {font-weight: bold;}#ai-layer-div-advanced_iframe_3 p {height:100%;margin:0;padding:0}</style><script type="text/javascript">var ai_iframe_width_advanced_iframe_3 = 0;var ai_iframe_height_advanced_iframe_3 = 0;function aiReceiveMessageadvanced_iframe_3(event) {  aiProcessMessage(event,"advanced_iframe_3", "true");}if (window.addEventListener) {  window.addEventListener("message", aiReceiveMessageadvanced_iframe_3);} else if (el.attachEvent)  {  el.attachEvent("message", aiReceiveMessageadvanced_iframe_3);}var aiIsIe8=false;var aiOnloadScrollTop="true";var aiShowDebug=false;
+<pre><code>	if (typeof aiReadyCallbacks === 'undefined') {
+		var aiReadyCallbacks = [];  
+	} else if (!(aiReadyCallbacks instanceof Array)) {
+		var aiReadyCallbacks = [];
+	}    function aiShowIframeId(id_iframe) { jQuery(&quot;#&quot;+id_iframe).css(&quot;visibility&quot;, &quot;visible&quot;);    }    function aiResizeIframeHeight(height) { aiResizeIframeHeight(height,advanced_iframe_3); }    function aiResizeIframeHeightId(height,width,id) {aiResizeIframeHeightById(id,height);}&lt;/script&gt;&lt;iframe id=&quot;advanced_iframe_3&quot;  name=&quot;advanced_iframe_3&quot;  src=&quot;https://alx.media/themes/boxstyle/&quot;  width=&quot;100%&quot;  height=&quot;600&quot;  frameborder=&quot;0&quot;  allowtransparency=&quot;true&quot;  loading=&quot;lazy&quot;  style=&quot;;width:100%;height:600px;&quot; &gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;var ifrm_advanced_iframe_3 = document.getElementById(&quot;advanced_iframe_3&quot;);var hiddenTabsDoneadvanced_iframe_3 = false;
+</code></pre>
+<p>function resizeCallbackadvanced_iframe_3() {}</script><script type="text/javascript"></script></p>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1846" height="1292" src="https://cdn.jishusongshu.com/images/2022/03/2022-03-12_223656.jpg?x-oss-process=style/webp" alt="" class="wp-image-6957" srcset="https://cdn.jishusongshu.com/images/2022/03/2022-03-12_223656.jpg?x-oss-process=style/webp 1846w, https://cdn.jishusongshu.com/images/2022/03/2022-03-12_223656-1536x1075.jpg 1536w" sizes="(max-width: 1846px) 100vw, 1846px" /></figure>
+<p>主题文档：<a href="https://alx.media/documentation/" target="_blank"  rel="nofollow" >Documentation &#8211; AlxMedia</a></p>
+<p><a href="https://wordpress.org/themes/boxstyle/" target="_blank"  rel="nofollow" >Boxstyle &#8211; WordPress theme | WordPress.org</a></p>
+<p>国内友人使用此模板：<a href="http://ai.cx/" target="_blank"  rel="nofollow" >威海养蜂人🐝 – 养蜂记录🐝一起去养蜂 (ai.cx)</a></p>
+<br />
+			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>Boxstyle_v1.3.7</span></font><br>
+				<font color=#000 class="down-price">适用版本：WordPress</font><br>
+				<font color=#000  class="down-ordinary">更新日期：2022-3-10</font><br>
+		    	<font color=#000  class="down-vip">文件大小：2.8 M</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="Boxstyle_v1.3.7" href="https://www.jishusongshu.com/download.php?id=6955"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>			]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21.lolimeow二次元风博客主题]]></title>
+        <id>https://612901.github.io/post/21lolimeow-er-ci-yuan-feng-bo-ke-zhu-ti/</id>
+        <link href="https://612901.github.io/post/21lolimeow-er-ci-yuan-feng-bo-ke-zhu-ti/">
+        </link>
+        <updated>2022-08-04T05:46:04.000Z</updated>
+        <content type="html"><![CDATA[<p>笔者的网站：<a rel="noreferrer noopener" href="https://blog.szfx.top/" target="_blank" rel="nofollow" >https://blog.szfx.top/</a>目前使用的是lolimeow主题</p>
+<style type="text/css">
+       .errordiv { padding:10px; margin:10px; border: 1px solid #555555;color: #000000;background-color: #f8f8f8; width:500px; }#advanced_iframe_3 {visibility:visible;opacity:1;vertical-align:top;}.ai-info-bottom-iframe { position: fixed; z-index: 10000; bottom:0; left: 0; margin: 0px; text-align: center; width: 100%; background-color: #ff9999; padding-left: 5px;padding-bottom: 5px; border-top: 1px solid #aaa } a.ai-bold {font-weight: bold;}#ai-layer-div-advanced_iframe_3 p {height:100%;margin:0;padding:0}</style><script type="text/javascript">var ai_iframe_width_advanced_iframe_3 = 0;var ai_iframe_height_advanced_iframe_3 = 0;function aiReceiveMessageadvanced_iframe_3(event) {  aiProcessMessage(event,"advanced_iframe_3", "true");}if (window.addEventListener) {  window.addEventListener("message", aiReceiveMessageadvanced_iframe_3);} else if (el.attachEvent)  {  el.attachEvent("message", aiReceiveMessageadvanced_iframe_3);}var aiIsIe8=false;var aiOnloadScrollTop="true";var aiShowDebug=false;
+<pre><code>	if (typeof aiReadyCallbacks === 'undefined') {
+		var aiReadyCallbacks = [];  
+	} else if (!(aiReadyCallbacks instanceof Array)) {
+		var aiReadyCallbacks = [];
+	}    function aiShowIframeId(id_iframe) { jQuery(&quot;#&quot;+id_iframe).css(&quot;visibility&quot;, &quot;visible&quot;);    }    function aiResizeIframeHeight(height) { aiResizeIframeHeight(height,advanced_iframe_3); }    function aiResizeIframeHeightId(height,width,id) {aiResizeIframeHeightById(id,height);}&lt;/script&gt;&lt;iframe id=&quot;advanced_iframe_3&quot;  name=&quot;advanced_iframe_3&quot;  src=&quot;https://blog.szfx.top/&quot;  width=&quot;100%&quot;  height=&quot;600&quot;  frameborder=&quot;0&quot;  allowtransparency=&quot;true&quot;  loading=&quot;lazy&quot;  style=&quot;;width:100%;height:600px;&quot; &gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;var ifrm_advanced_iframe_3 = document.getElementById(&quot;advanced_iframe_3&quot;);var hiddenTabsDoneadvanced_iframe_3 = false;
+</code></pre>
+<p>function resizeCallbackadvanced_iframe_3() {}</script><script type="text/javascript"></script></p>
+<div class="wp-block-pandastudio-collapse"><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#uuid-timestamp-1651502587620">展开图片</button>
+<div class="well" id="uuid-timestamp-1651502587620">
+<div>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1582" height="922" src="https://cdn.jishusongshu.com/images/2022/05/SP_20220502_223338.jpg?x-oss-process=style/webp" alt="" class="wp-image-7246" srcset="https://cdn.jishusongshu.com/images/2022/05/SP_20220502_223338.jpg?x-oss-process=style/webp 1582w, https://cdn.jishusongshu.com/images/2022/05/SP_20220502_223338-1536x895.jpg 1536w" sizes="(max-width: 1582px) 100vw, 1582px" /></figure>
+</div>
+</div></div>
+<div class="wp-block-pandastudio-title"><div class="title_style_01"><p>更新历史</p></div></div>
+<p>2021/12/20 升级6.0做了一些调整和优化<br>2021/9/30 增加一个无侧栏单页面/修复一些错误<br>2021/9/26&nbsp;<code>更新到5.1</code>&nbsp;，调整UI，增加文章密码查看功能，在短代码实现<br>2021/9/18 更新一些错位错误小问题，修复php8.0的报错</p>
+<div class="wp-block-pandastudio-title"><div class="title_style_01"><p>版本功能</p></div></div>
+<p>1.侧栏/无侧栏切换！<br>2.会员中心（配套Erphpdown插件使用），可以做到收费下载/查看/会员中心/在线充值积分等等都齐全！<br>3.pjax页面加载<br>4.新增音乐播放器，防刷新<br>5.调整了前端登录/注册/找回密码UI<br>6.框架UI bootstrap 更新到5.0+版本/ 图标使用 FontAwesome4.7 ！<br>7.文章编辑集合了一些短代码！</p>
+<div data-showas="accordion" class="wp-block-pandastudio-accordion"></div>
+<figure class="wp-block-image size-large"><a href="https://img.szfx.top/img/2022/05/lolimeow-feature.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/img/2022/05/lolimeow-feature.jpg" alt=""/></a></figure>
+<br />
+			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>lolimeow_v6.0</span></font><br>
+				<font color=#000 class="down-price">适用版本：WordPress</font><br>
+				<font color=#000  class="down-ordinary">更新日期：2021-12-20</font><br>
+		    	<font color=#000  class="down-vip">文件大小：4.6 M</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px;margin-top:-5px;" rel="external nofollow" title="lolimeow_v6.0" href="https://www.jishusongshu.com/qq-miniprogram.php?code=fODLKPgWS" id="qrcode_down" target="_blank">点击下载</a></strong><br></p></div><div class="clear"></div></div>	]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.免费实用Windows超级管理器]]></title>
         <id>https://612901.github.io/post/20mian-fei-shi-yong-windows-chao-ji-guan-li-qi/</id>
@@ -290,146 +518,6 @@
 				<font color=#000  class="down-ordinary">更新日期：2022-04</font><br>
 		    	<font color=#000  class="down-vip">文件大小：130 M</font><br>
 			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px;margin-top:-5px;" rel="external nofollow" title="SnipDo_v3.0.8" href="https://www.jishusongshu.com/qq-miniprogram.php?code=wxIadeBUk" id="qrcode_down" target="_blank">点击下载</a></strong><br></p></div><div class="clear"></div></div>			
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15.Chrome/Edge浏览器增强插件]]></title>
-        <id>https://612901.github.io/post/15chromeedge-liu-lan-qi-zeng-qiang-cha-jian/</id>
-        <link href="https://612901.github.io/post/15chromeedge-liu-lan-qi-zeng-qiang-cha-jian/">
-        </link>
-        <updated>2022-08-04T03:17:38.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>功能</strong></p>
-<ul><li>双击关闭标签页</li><li>保留最后标签页（防止关闭最后一个标签页时关闭浏览器，点X不行）</li><li>鼠标悬停标签栏滚动</li><li>按住右键时滚轮滚动标签栏</li></ul>
-<p><strong>安装</strong></p>
-<p>dll放入Edge或Chrome目录即可</p>
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="901" height="363" src="https://cdn.jishusongshu.com/images/2022/04/SP_20220404_150612.jpg?x-oss-process=style/webp" alt="" class="wp-image-7049"/></figure></div>
-<p>开源地址：&nbsp;<a rel="noreferrer noopener" href="https://github.com/shuax/edge_plus" target="_blank" rel="nofollow" >https://github.com/shuax/edge_plus</a></p>
-<br />
-			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
-			<div class="down-detail"><br>
-				<font color=#000 class="down-price">文件名称：<span>edge_plus</span></font><br>
-				<font color=#000 class="down-price">适用版本：Chrome / Edge</font><br>
-				<font color=#000  class="down-ordinary">更新日期：2022-3-29</font><br>
-		    	<font color=#000  class="down-vip">文件大小：21 K</font><br>
-			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px;margin-top:-5px;" rel="external nofollow" title="edge_plus" href="https://www.jishusongshu.com/qq-miniprogram.php?code=RC315FyHK" id="qrcode_down" target="_blank">点击下载</a></strong><br></p></div><div class="clear"></div></div>			
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14.FastGithub加速访问]]></title>
-        <id>https://612901.github.io/post/14fastgithub-jia-su-fang-wen/</id>
-        <link href="https://612901.github.io/post/14fastgithub-jia-su-fang-wen/">
-        </link>
-        <updated>2022-08-04T03:14:39.000Z</updated>
-        <content type="html"><![CDATA[<h3>前言</h3>
-<p><code>fastgithub</code>是使用<code>dotnet</code>开发的一款<code>github</code>加速器，作为开发者，无人不知<code>github</code>，作为<code>github</code>用户，<code>fastgithub</code>也许是你不可或缺的本机工具。</p>
-<p>解决问题：github连接不上、代码pull/push失败、找问题的网站也卡、想看个代码结果是欣赏loading的艺术</p>
-<h3>FastGithub</h3>
-<p>提供域名的纯净IP解析；</p>
-<p>提供IP测速并选择最快的IP；</p>
-<p>提供域名的tls连接自定义配置；</p>
-<p>google的CDN资源替换，解决大量国外网站无法加载js和css的问题；</p>
-<p>这是一个本机工具，无任何中转的远程服务器，但也能让你的网络产生很大的改善：</p>
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="782" height="587" src="https://cdn.jishusongshu.com/images/2022/04/SP_20220408_221823.jpg?x-oss-process=style/webp" alt="" class="wp-image-7081"/></figure>
-<h3>简单易用</h3>
-<p>不用任何设置，只需要双击运行即可，与代理等不冲突（因为不是同一种类型），也不修改你的系统网络配置。</p>
-<h3>免费+开源</h3>
-<p>代码100%开源，且不收费就可以使用软件的100%功能。</p>
-<p><a href="https://github.com/dotnetcore/FastGithub" target="_blank"  rel="nofollow" >https://github.com/dotnetcore/FastGithub</a></p>
-<figure class="wp-block-image size-large"><a href="https://img.szfx.top/2022/04/08/62504ba3cc9a8.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/2022/04/08/62504ba3cc9a8.jpg" alt=""/></a></figure>
-<h3>问题答疑</h3>
-<h4>Firefox</h4>
-<p>建立安全连接失败</p>
-<p><small>连接到 github.com 时发生错误。对等端的证书有一个无效的签名。</small></p>
-<p><small>错误代码：SEC_ERROR_BAD_SIGNATURE</small></p>
-<h5>解决办法</h5>
-<p>1 地址栏输入：<code>about:config</code></p>
-<p>2 输入首选项名称：<code>security.enterprise_roots.enabled</code></p>
-<p>3 修改值为：<code>true</code></p>
-<h4>git.exe</h4>
-<p>clone、pull或push等证书异常</p>
-<p><small>fatal: unable to access &#8216;https://github.com/xxx.git/&#8217;</small></p>
-<p><small>SSL certificate problem: unable to get local issuer certificate</small></p>
-<h5>解决办法</h5>
-<p>1 管理员身份运行：<code>cmd</code></p>
-<p>2 在cmd输入：<code>git config --global http.sslverify false</code></p>
-<p>最新的Windows版本转存在高速网盘，全平台的旧版本在蓝奏云，微信扫描下载↓</p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a style="width: 300px;" href="https://img.szfx.top/2022/04/08/62504fc9a8ddb.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img style="width: 300px;" src="https://img.szfx.top/2022/04/08/62504fc9a8ddb.jpg" alt="" /></a></figure>
-</div>
-<p>要想下载最新macOS或Linux版本，请正确使用以下链接</p>
-<p><a href="https://github.rc1844.workers.dev/" target="_blank"  rel="nofollow" >https://github.rc1844.workers.dev/</a></p>
-<p><a href="https://ghproxy.com/" target="_blank"  rel="nofollow" >https://ghproxy.com/</a></p>
-<p>使用说明：<a href="https://doc.szfx.top/gt.html" target="_blank"  rel="nofollow" >https://doc.szfx.top/gt.html</a></p>
-<h3>参考资料</h3>
-<p><a href="https://www.52pojie.cn/thread-1568415-1-1.html" target="_blank"  rel="nofollow" >https://www.52pojie.cn/thread-1568415-1-1.html</a></p>
-<br />
-			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
-			<div class="down-detail"><br>
-				<font color=#000 class="down-price">文件名称：<span>fastgithub</span></font><br>
-				<font color=#000 class="down-price">适用版本：Windows / macOS /Linux</font><br>
-				<font color=#000  class="down-ordinary">更新日期：2022-3-1</font><br>
-		    	<font color=#000  class="down-vip">文件大小：21.2M</font><br>
-			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="fastgithub" href="https://www.jishusongshu.com/download.php?id=7077"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>			]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13.Fusion App2.0 来袭！全新体验]]></title>
-        <id>https://612901.github.io/post/13fusion-app20-lai-xi-quan-xin-ti-yan/</id>
-        <link href="https://612901.github.io/post/13fusion-app20-lai-xi-quan-xin-ti-yan/">
-        </link>
-        <updated>2022-08-04T02:42:20.000Z</updated>
-        <content type="html"><![CDATA[<p>今天给大家推荐小白也可以制作安卓应用的安卓软件——Fusion App。<br />
-Fusion App2.0已经在内测了，笔者有幸参与，发现新版有许多亮点，比如：UI更美观了、源码管理更有序了、编辑器更好用了、新增代码回溯功能等。</p>
-<h2>一、软件概述</h2>
-<blockquote class="" data-type="2" data-url="" data-author-name="" data-content-utf8-length="67" data-source-title="">
-<section class="">FusionApp是一款新概念&#8221;网页转应用&#8221;的应用。它可以将网页翻新改造，获得优异至近乎的客户端的体验。它会让你爱上调教网页的感觉。</section>
-</blockquote>
-<p>2.0版本还在内测，酷安里的是v1.1.4</p>
-<p><a href="https://imgurl.661111.repl.co/imgs/2022/08/e1be4fd0c8334551.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://imgurl.661111.repl.co/imgs/2022/08/e1be4fd0c8334551.png" /></a></p>
-<p>图标的灵感应该来自乐视</p>
-<p><a href="https://imgurl.661111.repl.co/imgs/2022/08/e9b5518aa9be3706.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://imgurl.661111.repl.co/imgs/2022/08/e9b5518aa9be3706.png" /></a></p>
-<p>应用包名：cn.coldsong.fusionapp</p>
-<p>更新时间：2020-10-27 18:02:30</p>
-<p>支持ROM：5.0+</p>
-<p>开发者名称：寒歌</p>
-<section>寒歌开发的一个木函也是不错<strong><a href="https://mp.weixin.qq.com/s?__biz=MzI0MDU2MTY0NQ==&amp;mid=2247484325&amp;idx=1&amp;sn=77c7d8dc6e397b96a9de5d50d8ce67b7&amp;scene=21#wechat_redirect" target="_blank" rel="noopener" data-linktype="2" rel="nofollow" >工具合集 | 一个木函 &amp; Smart Kit</a></strong></p>
-<h2>二、功能介绍</h2>
-<p>下面简单介绍一下Fusion App2.0（注：本次使用的版本为beta6）</p>
-<p>FA教学手册整理：<a href="https://szfx.top/lua/fusionapp2.html" target="_blank"  rel="nofollow" >https://szfx.top/lua/fusionapp2.html</a></p>
-<h3>2.1 主界面</h3>
-<p><a class="aligncenter" href="https://imgurl.661111.repl.co/imgs/2022/08/c487a445aa6dbc42.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://imgurl.661111.repl.co/imgs/2022/08/c487a445aa6dbc42.jpg" /></a></p>
-<p style="text-align: center;">源码市场还在建设中</p>
-<h3>2.2 工程界面</h3>
-<p><a class="aligncenter" href="https://imgurl.661111.repl.co/imgs/2022/08/4485828440548e73.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://imgurl.661111.repl.co/imgs/2022/08/4485828440548e73.jpg" /></a></p>
-<h3>2.3 页面布局设置</h3>
-<p><a class="aligncenter" href="https://imgurl.661111.repl.co/imgs/2022/08/8d7d8ec0acefcf80.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://imgurl.661111.repl.co/imgs/2022/08/8d7d8ec0acefcf80.jpg" /></a></p>
-<h3>2.4 权限与代码编辑</h3>
-<p><a class="aligncenter" href="https://imgurl.661111.repl.co/imgs/2022/08/7132ac4f41b76951.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://imgurl.661111.repl.co/imgs/2022/08/7132ac4f41b76951.jpg" /></a></p>
-<h2>三、经验分享</h2>
-<p>FA1.0封装了一些常用的中文函数，而内测的Fusion App2.0已经弃用中文函数。松子博客分享一些替代的英文代码，并分享一些常用代码。</p>
-<p><a href="https://blog.szfx.top/lua/fusionapp-chinese-functions-transfer.html" target="_blank"  rel="nofollow" >https://blog.szfx.top/lua/fusionapp-chinese-functions-transfer.html</a></p>
-</section>
-<p>笔者使用Fusion App1.0开发过两款应用：技术松鼠APP和松子工具箱，由于旧版Fusion App对高版本的安卓的兼容性较差，而大家大多是Android 10及以上，在等FA2.0，于是停更半年了</p>
-<p>两款软件正在加急更新中，请大家耐心等待。旧版技术松鼠APP和松子工具箱对Android 9及以下兼容性较好，如果你的Android手机系统不新，可以先试试旧版本的应用&gt;&gt;<a href="https://mp.weixin.qq.com/s/f0VIg1owG1pPgN8OCeW4oQ" target="_blank"  rel="nofollow" >技术松鼠APP</a></p>
-<h2>四、软件下载</h2>
-<p><a href="https://www.szfx.top/lua/fusionapp2.html" target="_blank"  rel="nofollow" >https://www.szfx.top/lua/fusionapp2.html</a></p>
-<p>文章底部</p>
-<br />
-			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
-			<div class="down-detail"><br>
-				<font color=#000 class="down-price">文件名称：<span>fusionapp2-beta8.7.2</span></font><br>
-				<font color=#000 class="down-price">适用版本：Android / HarmonyOS</font><br>
-				<font color=#000  class="down-ordinary">更新日期：2021-05-09</font><br>
-		    	<font color=#000  class="down-vip">文件大小：9.2M</font><br>
-			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px;margin-top:-5px;" rel="external nofollow" title="fusionapp2-beta8.7.2" href="https://www.jishusongshu.com/qq-miniprogram.php?code=ceCUxZOPM" id="qrcode_down" target="_blank">点击下载</a></strong><br></p></div><div class="clear"></div></div>			
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电摇]]></title>
-        <id>https://612901.github.io/post/dian-yao/</id>
-        <link href="https://612901.github.io/post/dian-yao/">
-        </link>
-        <updated>2022-08-04T02:38:47.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
 ]]></content>
     </entry>
 </feed>
