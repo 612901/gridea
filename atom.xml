@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-07-26T03:40:43.535Z</updated>
+    <updated>2022-07-26T13:12:00.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -11,18 +11,14 @@
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
     <entry>
-        <title type="html"><![CDATA[Git远程管理Github仓库。入坑github，各种数字警告体验。]]></title>
+        <title type="html"><![CDATA[无赖哥哥]]></title>
         <id>https://612901.github.io/post/git-yuan-cheng-guan-li-github-cang-ku-ru-keng-githubge-chong-shu-zi-jing-gao-ti-yan/</id>
         <link href="https://612901.github.io/post/git-yuan-cheng-guan-li-github-cang-ku-ru-keng-githubge-chong-shu-zi-jing-gao-ti-yan/">
         </link>
         <updated>2022-07-26T03:33:22.000Z</updated>
-        <content type="html"><![CDATA[ <iframe  
- height=850 
- width=90% 
- src="//player.bilibili.com/player.html?aid=933616844&bvid=BV1WT4y1o7JB&cid=425593608&page=1"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=600479865&bvid=BV1bB4y1W7Jb&cid=757966187&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="flash"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=600493431&bvid=BV1pB4y1W7cE&cid=757967223&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="flash"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=600479865&bvid=BV1bB4y1W7Jb&cid=757966187&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ]]></content>
     </entry>
     <entry>
@@ -55,45 +51,45 @@
         <content type="html"><![CDATA[<p>https://socialify.git.ci/Xhofe/alist/image?description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Falist-org%2Flogo%40main%2Flogo.svg&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light)<br></p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5623227"><label class="task-list-item-label" for="task-item-5623227"> 本地存储</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8808428"><label class="task-list-item-label" for="task-item-8808428"> 本地存储</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3255307"> <a href="https://www.aliyundrive.com/">阿里云盘<label class="task-list-item-label" for="task-item-3255307"> [阿里云盘](https://www.aliyundrive.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-212288"> <a href="https://www.aliyundrive.com/">阿里云盘<label class="task-list-item-label" for="task-item-212288"> [阿里云盘](https://www.aliyundrive.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7866880"> OneDrive / Sharepoint（<a href="https://www.office.com/">国际版</a>, [世纪互联]<br>
-<label class="task-list-item-label" for="task-item-7866880"> OneDrive / Sharepoint（[国际版](https://www.office.com/), [世纪互联]
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1637685"> OneDrive / Sharepoint（<a href="https://www.office.com/">国际版</a>, [世纪互联]<br>
+<label class="task-list-item-label" for="task-item-1637685"> OneDrive / Sharepoint（[国际版](https://www.office.com/), [世纪互联]
 (https://portal.partner.microsoftonline.cn),de,us）</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8432216"> <a href="https://cloud.189.cn">天翼云盘<label class="task-list-item-label" for="task-item-8432216"> [天翼云盘](https://cloud.189.cn)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7447192"> <a href="https://cloud.189.cn">天翼云盘<label class="task-list-item-label" for="task-item-7447192"> [天翼云盘](https://cloud.189.cn)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3986274"> <a href="https://drive.google.com/">GoogleDrive<label class="task-list-item-label" for="task-item-3986274"> [GoogleDrive](https://drive.google.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5068370"> <a href="https://drive.google.com/">GoogleDrive<label class="task-list-item-label" for="task-item-5068370"> [GoogleDrive](https://drive.google.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-709375"> <a href="https://www.123pan.com/">123 云盘<label class="task-list-item-label" for="task-item-709375"> [123 云盘](https://www.123pan.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-311508"> <a href="https://www.123pan.com/">123 云盘<label class="task-list-item-label" for="task-item-311508"> [123 云盘](https://www.123pan.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4857738"> <a href="https://pc.woozooo.com/">蓝奏云<label class="task-list-item-label" for="task-item-4857738"> [蓝奏云](https://pc.woozooo.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7466023"> <a href="https://pc.woozooo.com/">蓝奏云<label class="task-list-item-label" for="task-item-7466023"> [蓝奏云](https://pc.woozooo.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2327553"> <a href="https://github.com/Xhofe/alist">Alist<label class="task-list-item-label" for="task-item-2327553"> [Alist](https://github.com/Xhofe/alist)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5632188"> <a href="https://github.com/Xhofe/alist">Alist<label class="task-list-item-label" for="task-item-5632188"> [Alist](https://github.com/Xhofe/alist)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4218622"><label class="task-list-item-label" for="task-item-4218622"> FTP</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1687672"><label class="task-list-item-label" for="task-item-1687672"> FTP</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7048946"> <a href="https://www.mypikpak.com/">PikPak<label class="task-list-item-label" for="task-item-7048946"> [PikPak](https://www.mypikpak.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-152063"> <a href="https://www.mypikpak.com/">PikPak<label class="task-list-item-label" for="task-item-152063"> [PikPak](https://www.mypikpak.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7478394"> <a href="https://shandianpan.com/">闪电盘<label class="task-list-item-label" for="task-item-7478394"> [闪电盘](https://shandianpan.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7331264"> <a href="https://shandianpan.com/">闪电盘<label class="task-list-item-label" for="task-item-7331264"> [闪电盘](https://shandianpan.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3805606"> <a href="https://aws.amazon.com/cn/s3/">S3<label class="task-list-item-label" for="task-item-3805606"> [S3](https://aws.amazon.com/cn/s3/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5233130"> <a href="https://aws.amazon.com/cn/s3/">S3<label class="task-list-item-label" for="task-item-5233130"> [S3](https://aws.amazon.com/cn/s3/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1288905"><label class="task-list-item-label" for="task-item-1288905"> WebDav</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4172330"><label class="task-list-item-label" for="task-item-4172330"> WebDav</label></p>
 </li>
 <li>
 <p>https://alist.nn.ci</p>
