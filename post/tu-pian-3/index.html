@@ -3,7 +3,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="description" content="
-..." />
+
+
+ 
+     
+    var gitalk = new Gitalk({
+// gitalk的主要参数
+    clientID: 6ad6b6511aa01393b74f,
+    clientSecret: 497d0d9dc1..." />
     <meta name="keywords" content="potos" />
     <link rel="stylesheet" href="https://612901.github.io/media/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://612901.github.io/styles/main.css">
@@ -326,7 +333,7 @@
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659008997140" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659010641660" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -1229,7 +1236,7 @@ menulist.eq(i).show();
             </div>
             <div class="postinfo-detail">
                 <div class="postdate"><i class="fa fa-calendar"></i>2022-07-22</div>
-                <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 0 min read</div>
+                <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 1 min read</div>
                 <div class="posttag">
                     
                     <a data-pjax href="https://612901.github.io/tag/JpSlPSozQ/" class="postlink">
@@ -1251,7 +1258,24 @@ menulist.eq(i).show();
             </div>
             <div class="text ">
                 <p><img src="https://www.xhto.cn/usr/uploads/2022/04/2360875809.jpg" alt="cover21.jpg" title="cover21.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/4087065713.jpg" alt="cover22.jpg" title="cover22.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/1871551451.jpg" alt="cover23.jpg" title="cover23.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/3998338176.jpg" alt="cover24.jpg" title="cover24.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/3579896948.jpg" alt="cover25.jpg" title="cover25.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/2546583302.jpg" alt="cover26.jpg" title="cover26.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/1679935697.jpg" alt="cover27.jpg" title="cover27.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/1596836516.jpg" alt="cover28.jpg" title="cover28.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/3799235475.jpg" alt="cover29.jpg" title="cover29.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/04/2712384130.jpg" alt="cover30.jpg" title="cover30.jpg"></p>
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+<pre><code>// gitalk的主要参数
+    clientID: 6ad6b6511aa01393b74f,
+    clientSecret: 497d0d9dc1281a59481b391d7dd78765a8f95f74,
+    repo: https://612901.github.io/,
+    owner: 612901,
+    admin: [612901],
+    id:window.location.pathname,
 
+});
+gitalk.render('gitalk-container');
+</code></pre>
+</script> 
+<!-- Gitalk end -->
             </div>
             <hr style="width: 80%;">
             
