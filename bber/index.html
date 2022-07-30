@@ -144,7 +144,7 @@ $(document).ready(function(){
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659186628022" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659223915656" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -758,13 +758,13 @@ $(document).ready(function(){
                 shareInit();
             if (donateChoice)
                 donateInit();
-            if ("twikoo" == "default"&&!commentsHide) {
+            if ("valine" == "default"&&!commentsHide) {
                 $("#comment").hide()
                 commentsHide = true
             }
             lazyload();
             codeinit();
-            if ("twikoo" == "twikoo") {
+            if ("valine" == "twikoo") {
                 //twikoo头像更换
                 setTimeout(replaceAvatar, 3000);
                 setTimeout(replaceAvatar, 8000); //部分博主站点速度加载过慢，再添加一个延迟
@@ -1216,7 +1216,7 @@ menulist.eq(i).show();
     ispeakBber.init({
             el: '#speak', // 容器选择器
             name: '', // 显示的昵称
-            envId: 'twikoo-6gbp33x72a40527e', // 环境id
+            envId: '', // 环境id
             region: 'ap-shanghai', // 腾讯云地址，默认为上海
             limit: lnum, // 每次加载的条数，默认为5
             avatar: '',
@@ -1233,37 +1233,39 @@ menulist.eq(i).show();
                     <div id="comment" class="comment">
                         <div class="commentcontainer">
                            
-                              
-                              <!-- 文章热度功能和评论整合 -->
-<style>
-  .twikoo p {text-align: left;}
-</style>
-<body>
-<div id="tcomment"></div>
-</body>
-<script>
-twikoo.init({
-  envId: 'twikoo-6gbp33x72a40527e',
-  el: '#tcomment',
-  // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
-  // path: 'window.location.pathname', // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
-})
-</script>
-
-<script>
-  var appid = 'x26LD1by7zBEhm1LCpGmREq5-gzGzoHsz';
-  var appkey = 'B7Qt4DnfJfPbjcM4zrlPKVNg';
-  if(typeof(AVinit)=="undefined"){
-    AV.init({
-      appId: appid,
-      appKey: appkey
-  });
-  AVinit = true;
-}
-</script>
-                                  <div class="clear"></div>
+                            
                                 
-                               
+        <div id="vcomments">
+        </div>
+        <script>
+            var valine = new Valine();
+            var curpath = window.location.pathname;
+            if (curpath[curpath.length - 1] != '/')
+                curpath += '/'
+            valine.init({
+                el: '#vcomments',
+                appId: 'x26LD1by7zBEhm1LCpGmREq5-gzGzoHsz',
+                appKey: 'B7Qt4DnfJfPbjcM4zrlPKVNg',
+                avatar: 'retro',
+                pageSize: 10,
+                placeholder: '既然来了，何不畅所欲言呢？',
+                recordIP: true,
+                path: curpath //[重点] 记得添加path路径
+            });
+        </script>
+        <script type="text/javascript">
+            var jrsc = '既然来了，何不畅所欲言呢？';
+            jinrishici.load(function (result) {
+                // 自己的处理逻辑
+                jrsc = result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin
+                    .dynasty + " · " + result.data.origin.author;
+            });
+        </script>
+
+
+                                    <div class="clear"></div>
+                              
+                              
                           </div>
                       </div>
                      <!---------------------------- 评论系统👆 ------------------------->

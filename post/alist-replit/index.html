@@ -333,7 +333,7 @@ The fa..." />
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659186628022" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659223915656" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -947,13 +947,13 @@ The fa..." />
                 shareInit();
             if (donateChoice)
                 donateInit();
-            if ("twikoo" == "default"&&!commentsHide) {
+            if ("valine" == "default"&&!commentsHide) {
                 $("#comment").hide()
                 commentsHide = true
             }
             lazyload();
             codeinit();
-            if ("twikoo" == "twikoo") {
+            if ("valine" == "twikoo") {
                 //twikoo头像更换
                 setTimeout(replaceAvatar, 3000);
                 setTimeout(replaceAvatar, 8000); //部分博主站点速度加载过慢，再添加一个延迟
@@ -1259,7 +1259,10 @@ menulist.eq(i).show();
                 <div id="rootaddr" style="display:none">https://612901.github.io</div>
                 
                     
-                    <h4><i class="fa fa-eye" aria-hidden="true" style="color: #FF8C00;"></i>&nbsp;&nbsp;热度</i>: <span id="twikoo_visitors" class="hotnum">loading...</span></h4>
+                    <span id="hotnum">
+                        <h4><i class="fa fa-eye" aria-hidden="true" style="color: #FF8C00;"></i>&nbsp;&nbsp;热度</i>: <i
+                                class="hotnum">loading...</i></h4>
+                    </span>
                     
                 
             </div>
@@ -1428,33 +1431,35 @@ AList是一款支持多种存储的目录文件列表程序，后端基于gin，
                         <div class="commentcontainer">
                             
                                 
-                                    <!-- 文章热度功能和评论整合 -->
-<style>
-  .twikoo p {text-align: left;}
-</style>
-<body>
-<div id="tcomment"></div>
-</body>
-<script>
-twikoo.init({
-  envId: 'twikoo-6gbp33x72a40527e',
-  el: '#tcomment',
-  // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
-  // path: 'window.location.pathname', // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
-})
-</script>
+                                    
+        <div id="vcomments">
+        </div>
+        <script>
+            var valine = new Valine();
+            var curpath = window.location.pathname;
+            if (curpath[curpath.length - 1] != '/')
+                curpath += '/'
+            valine.init({
+                el: '#vcomments',
+                appId: 'x26LD1by7zBEhm1LCpGmREq5-gzGzoHsz',
+                appKey: 'B7Qt4DnfJfPbjcM4zrlPKVNg',
+                avatar: 'retro',
+                pageSize: 10,
+                placeholder: '既然来了，何不畅所欲言呢？',
+                recordIP: true,
+                path: curpath //[重点] 记得添加path路径
+            });
+        </script>
+        <script type="text/javascript">
+            var jrsc = '既然来了，何不畅所欲言呢？';
+            jinrishici.load(function (result) {
+                // 自己的处理逻辑
+                jrsc = result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin
+                    .dynasty + " · " + result.data.origin.author;
+            });
+        </script>
 
-<script>
-  var appid = 'x26LD1by7zBEhm1LCpGmREq5-gzGzoHsz';
-  var appkey = 'B7Qt4DnfJfPbjcM4zrlPKVNg';
-  if(typeof(AVinit)=="undefined"){
-    AV.init({
-      appId: appid,
-      appKey: appkey
-  });
-  AVinit = true;
-}
-</script>
+
                                     <div class="clear"></div>
                                 
                             

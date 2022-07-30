@@ -117,7 +117,7 @@
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659186628022" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659223915656" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -731,13 +731,13 @@
                 shareInit();
             if (donateChoice)
                 donateInit();
-            if ("twikoo" == "default"&&!commentsHide) {
+            if ("valine" == "default"&&!commentsHide) {
                 $("#comment").hide()
                 commentsHide = true
             }
             lazyload();
             codeinit();
-            if ("twikoo" == "twikoo") {
+            if ("valine" == "twikoo") {
                 //twikoo头像更换
                 setTimeout(replaceAvatar, 3000);
                 setTimeout(replaceAvatar, 8000); //部分博主站点速度加载过慢，再添加一个延迟
@@ -1169,7 +1169,7 @@ menulist.eq(i).show();
                         <!-- 移动端欢迎页 -->
 <div class="welcome">
     <div class="avatar-border">
-        <img src="https://612901.github.io/images/avatar.png?v=1659186628022" class="avatar">
+        <img src="https://612901.github.io/images/avatar.png?v=1659223915656" class="avatar">
     </div>
     <span class="mobiledescribtion"></span>
 </div>
@@ -1255,6 +1255,33 @@ menulist.eq(i).show();
 </script>
                     </div>
                     <div style="display:none">
+        <div id="vcomments">
+        </div>
+        <script>
+            var valine = new Valine();
+            var curpath = window.location.pathname;
+            if (curpath[curpath.length - 1] != '/')
+                curpath += '/'
+            valine.init({
+                el: '#vcomments',
+                appId: 'x26LD1by7zBEhm1LCpGmREq5-gzGzoHsz',
+                appKey: 'B7Qt4DnfJfPbjcM4zrlPKVNg',
+                avatar: 'retro',
+                pageSize: 10,
+                placeholder: '既然来了，何不畅所欲言呢？',
+                recordIP: true,
+                path: curpath //[重点] 记得添加path路径
+            });
+        </script>
+        <script type="text/javascript">
+            var jrsc = '既然来了，何不畅所欲言呢？';
+            jinrishici.load(function (result) {
+                // 自己的处理逻辑
+                jrsc = result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin
+                    .dynasty + " · " + result.data.origin.author;
+            });
+        </script>
+
 </div>
                     <link rel="stylesheet" href="https://612901.github.io/media/css/font-awesome.css">
 
