@@ -333,7 +333,7 @@ The fa..." />
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659105037773" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659147908019" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -1302,6 +1302,25 @@ AList是一款支持多种存储的目录文件列表程序，后端基于gin，
 </blockquote>
 <h2 id="password">Password</h2>
 <p>The initial password is randomly generated, and you can get it by checking the console logs.</p>
+<head>
+  <!-- ... -->
+  <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
+  <!-- ... -->
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script>
+    Waline.init({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
+  </script>
+</body>
 
             </div>
             <hr style="width: 80%;">
