@@ -144,7 +144,7 @@ $(document).ready(function(){
                         src='https://612901.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://612901.github.io/images/avatar.png?v=1659224009565" class="avatar">
+            <img src="https://612901.github.io/images/avatar.png?v=1659232088186" class="avatar">
         </div>
         <div class="sitename">无影博客</div>
         <span class="description" data-text='["不理白驹过隙，不信生死有命！"]'>&nbsp;</span>
@@ -243,6 +243,12 @@ $(document).ready(function(){
         
 
         
+        
+            <div class="mchocie description">
+                <a data-pjax href="https://612901.github.io/bber" class="menubutton" style="margin-right: 15px;">
+                    <i><img class="icon menuicon" src="" alt="哔哔"></i>&nbsp;<span data-text="哔哔">哔哔</span>
+                </a>
+            </div>
         
         
         <div class="mchocie description">
@@ -418,6 +424,13 @@ $(document).ready(function(){
     
     <script>let postsnum = 0;</script>
     <div id="side-posttitle" style="display: none;">
+    
+    
+    bing每日圖片
+    <script>
+        postsnum += 1
+    </script>
+    
     
     
     代码数据库
@@ -1149,6 +1162,8 @@ menulist.eq(i).show();
         
         
         
+          <li><a data-pjax href="https://612901.github.io/bber" style="color:white">哔哔</a></li>
+          
           
         <li><a data-pjax href="https://612901.github.io/friends" style="color:white">友链</a></li>
 
@@ -1211,7 +1226,7 @@ menulist.eq(i).show();
     <!-- 解析微信表情（参考：https://github.com/buddys/qq-wechat-emotion-parser） -->
     <!-- <script src="https://cdn.jsdelivr.net/gh/buddys/qq-wechat-emotion-parser@master/dist/qq-wechat-emotion-parser.min.js"></script> -->
 <script>
-    var limitstr = '5'
+    var limitstr = '10'
     lnum = parseInt(limitstr)
     ispeakBber.init({
             el: '#speak', // 容器选择器
@@ -1221,7 +1236,7 @@ menulist.eq(i).show();
             limit: lnum, // 每次加载的条数，默认为5
             avatar: '',
             fromColor: 'rgb(245, 150, 170)', // 下方标签背景颜色 默认 rgb(245, 150, 170)
-            loadingImg: 'https://7.dusays.com/2021/03/04/d2d5e983e2961.gif', // 自定义loading的图片，示例值为默认值
+            loadingImg: 'https://butterfly.js.org/img/loading.gif', // 自定义loading的图片，示例值为默认值
             dbName: 'talks' // 数据的名称，默认talks，避免有人的命名不是这个，所以加入此配置字段。
         })
         .then(function () {
