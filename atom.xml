@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-07-31T12:27:31.399Z</updated>
+    <updated>2022-08-01T03:14:07.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[fog的使用方法]]></title>
+        <id>https://612901.github.io/post/fog-de-shi-yong-fang-fa/</id>
+        <link href="https://612901.github.io/post/fog-de-shi-yong-fang-fa/">
+        </link>
+        <updated>2022-08-01T03:05:22.000Z</updated>
+        <content type="html"><![CDATA[<p>1.需要有gridea<br>
+2.要有图穿(专门将图片转为外链)</p>
+<img src = 'https://imgurl.661111.repl.co/imgs/2022/08/b84e988f7188f7de.png' />
+<img src = 'https://imgurl.661111.repl.co/imgs/2022/08/c3fa79fb225a19bc.png' />
+<img src = 'https://imgurl.661111.repl.co/imgs/2022/08/f2166247bbe57310.png' />
+<img src = 'https://imgurl.661111.repl.co/imgs/2022/08/c8b87bf6263b595e.png' />
+<img src = 'https://imgurl.661111.repl.co/imgs/2022/08/ca5b069af27d0725.png' />]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bing每日圖片]]></title>
         <id>https://612901.github.io/post/bing-mei-ri-tu-pian/</id>
@@ -124,45 +138,45 @@ gitalk.render('gitalk-container');
         <content type="html"><![CDATA[<p>https://socialify.git.ci/Xhofe/alist/image?description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Falist-org%2Flogo%40main%2Flogo.svg&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light)<br></p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-894595"><label class="task-list-item-label" for="task-item-894595"> 本地存储</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3989540"><label class="task-list-item-label" for="task-item-3989540"> 本地存储</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6036479"> <a href="https://www.aliyundrive.com/">阿里云盘<label class="task-list-item-label" for="task-item-6036479"> [阿里云盘](https://www.aliyundrive.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6430469"> <a href="https://www.aliyundrive.com/">阿里云盘<label class="task-list-item-label" for="task-item-6430469"> [阿里云盘](https://www.aliyundrive.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8003492"> OneDrive / Sharepoint（<a href="https://www.office.com/">国际版</a>, [世纪互联]<br>
-<label class="task-list-item-label" for="task-item-8003492"> OneDrive / Sharepoint（[国际版](https://www.office.com/), [世纪互联]
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9833224"> OneDrive / Sharepoint（<a href="https://www.office.com/">国际版</a>, [世纪互联]<br>
+<label class="task-list-item-label" for="task-item-9833224"> OneDrive / Sharepoint（[国际版](https://www.office.com/), [世纪互联]
 (https://portal.partner.microsoftonline.cn),de,us）</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3100639"> <a href="https://cloud.189.cn">天翼云盘<label class="task-list-item-label" for="task-item-3100639"> [天翼云盘](https://cloud.189.cn)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-418724"> <a href="https://cloud.189.cn">天翼云盘<label class="task-list-item-label" for="task-item-418724"> [天翼云盘](https://cloud.189.cn)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3997039"> <a href="https://drive.google.com/">GoogleDrive<label class="task-list-item-label" for="task-item-3997039"> [GoogleDrive](https://drive.google.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8092080"> <a href="https://drive.google.com/">GoogleDrive<label class="task-list-item-label" for="task-item-8092080"> [GoogleDrive](https://drive.google.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-461312"> <a href="https://www.123pan.com/">123 云盘<label class="task-list-item-label" for="task-item-461312"> [123 云盘](https://www.123pan.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5294878"> <a href="https://www.123pan.com/">123 云盘<label class="task-list-item-label" for="task-item-5294878"> [123 云盘](https://www.123pan.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6923782"> <a href="https://pc.woozooo.com/">蓝奏云<label class="task-list-item-label" for="task-item-6923782"> [蓝奏云](https://pc.woozooo.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6741156"> <a href="https://pc.woozooo.com/">蓝奏云<label class="task-list-item-label" for="task-item-6741156"> [蓝奏云](https://pc.woozooo.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8185946"> <a href="https://github.com/Xhofe/alist">Alist<label class="task-list-item-label" for="task-item-8185946"> [Alist](https://github.com/Xhofe/alist)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8688484"> <a href="https://github.com/Xhofe/alist">Alist<label class="task-list-item-label" for="task-item-8688484"> [Alist](https://github.com/Xhofe/alist)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5428095"><label class="task-list-item-label" for="task-item-5428095"> FTP</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7225001"><label class="task-list-item-label" for="task-item-7225001"> FTP</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-976764"> <a href="https://www.mypikpak.com/">PikPak<label class="task-list-item-label" for="task-item-976764"> [PikPak](https://www.mypikpak.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8999572"> <a href="https://www.mypikpak.com/">PikPak<label class="task-list-item-label" for="task-item-8999572"> [PikPak](https://www.mypikpak.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2092530"> <a href="https://shandianpan.com/">闪电盘<label class="task-list-item-label" for="task-item-2092530"> [闪电盘](https://shandianpan.com/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-895344"> <a href="https://shandianpan.com/">闪电盘<label class="task-list-item-label" for="task-item-895344"> [闪电盘](https://shandianpan.com/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2178526"> <a href="https://aws.amazon.com/cn/s3/">S3<label class="task-list-item-label" for="task-item-2178526"> [S3](https://aws.amazon.com/cn/s3/)</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7705505"> <a href="https://aws.amazon.com/cn/s3/">S3<label class="task-list-item-label" for="task-item-7705505"> [S3](https://aws.amazon.com/cn/s3/)</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-385890"><label class="task-list-item-label" for="task-item-385890"> WebDav</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8269020"><label class="task-list-item-label" for="task-item-8269020"> WebDav</label></p>
 </li>
 <li>
 <p>https://alist.nn.ci</p>
@@ -207,92 +221,6 @@ gitalk.render('gitalk-container');
         <updated>2022-07-22T13:57:43.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p><img src="https://www.xhto.cn/usr/uploads/2022/03/2052353932.jpg" alt="cover01.jpg" title="cover01.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/1481356604.jpg" alt="cover02.jpg" title="cover02.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/391443196.jpg" alt="cover03.jpg" title="cover03.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/3165863821.jpg" alt="cover04.jpg" title="cover04.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/3894740204.jpg" alt="cover05.jpg" title="cover05.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/2936555451.jpg" alt="cover06.jpg" title="cover06.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/2937621874.jpg" alt="cover07.jpg" title="cover07.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/2386717590.jpg" alt="cover08.jpg" title="cover08.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/3292935491.jpg" alt="cover09.jpg" title="cover09.jpg"><br><img src="https://www.xhto.cn/usr/uploads/2022/03/2335411907.jpg" alt="cover10.jpg" title="cover10.jpg"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mac-sofeware]]></title>
-        <id>https://612901.github.io/post/mac-sofeware/</id>
-        <link href="https://612901.github.io/post/mac-sofeware/">
-        </link>
-        <updated>2022-07-22T12:38:35.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>   &lt;div class=&quot;article-content markdown-body&quot;&gt;
-        &lt;h1 id=&quot;软件下载网站&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#软件下载网站&quot;&gt;&lt;/a&gt; 软件下载网站&lt;/h1&gt;
-</code></pre>
-<ul>
-<li>MacWk：<a class="link"   target="_blank" rel="noopener" href="https://macwk.com/" >https://macwk.com/<i class="fas fa-external-link-alt"></i></a></li>
-<li>XClient：<a class="link"   target="_blank" rel="noopener" href="https://xclient.info/" >https://xclient.info/<i class="fas fa-external-link-alt"></i></a></li>
-<li>AppKed：<a class="link"   target="_blank" rel="noopener" href="https://www.macbed.com/" >https://www.macbed.com/<i class="fas fa-external-link-alt"></i></a></li>
-</ul>
-<h1 id="工具类"><a class="markdownIt-Anchor" href="#工具类"></a> 工具类</h1>
-<h2 id="macos小助手"><a class="markdownIt-Anchor" href="#macos小助手"></a> macOS小助手</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://macwk.com/soft/macos-assistant-macwk" >https://macwk.com/soft/macos-assistant-macwk<i class="fas fa-external-link-alt"></i></a></li>
-<li>macOS小助手 是 <a class="link"   target="_blank" rel="noopener" href="http://MacWk.com" >MacWk.com<i class="fas fa-external-link-alt"></i></a> 编写的一个应用程序，可以帮您快速的进行一些操作，比如禁用macOS的 Gatekeeper（守门员）、修复macOS 10.15 应用已损坏问题、修改mac截图保存位置、修改截图名称前缀、修改截图默认保存格式、禁用窗口截图的阴影、开启单应用模式、查看SIP状态、禁用 macOS 更新提示（关闭macOS设置图标的小红点）。</li>
-</ul>
-<h2 id="mos"><a class="markdownIt-Anchor" href="#mos"></a> Mos</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://github.com/Caldis/Mos/" >https://github.com/Caldis/Mos/<i class="fas fa-external-link-alt"></i></a></li>
-<li>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板</li>
-</ul>
-<h2 id="alfred4"><a class="markdownIt-Anchor" href="#alfred4"></a> Alfred4</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://macwk.com/soft/alfred-4" >https://macwk.com/soft/alfred-4<i class="fas fa-external-link-alt"></i></a></li>
-<li>Alfred Powerpack 4 是一款本地搜索及快速启动工具，它可以帮你提高工作效率。alfred 4 可以快速的搜索本地应用、搜索本地文件、执行终端命令、翻译、文件管理、音乐控制等等！</li>
-</ul>
-<h2 id="mounty"><a class="markdownIt-Anchor" href="#mounty"></a> Mounty</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://mounty.app/" >https://mounty.app/<i class="fas fa-external-link-alt"></i></a></li>
-<li>NTFS盘挂载</li>
-</ul>
-<h2 id="popclip"><a class="markdownIt-Anchor" href="#popclip"></a> Popclip</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://macwk.com/soft/popclip" >https://macwk.com/soft/popclip<i class="fas fa-external-link-alt"></i></a></li>
-<li>PopClip 2020 破解版是一款划词工具。PopClip在Mac OS上对划词这个功能做了极大的增强，依附于各类小插件，我们能获得更多强大的功能来提升我们的操作效率。PopClip的核心其实在于扩展，上线快三年官方已经累计130多个常用的扩展。这还不包含Github上那些非官方的扩展们。</li>
-</ul>
-<h2 id="dozer"><a class="markdownIt-Anchor" href="#dozer"></a> Dozer</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://github.com/Mortennn/Dozer" >https://github.com/Mortennn/Dozer<i class="fas fa-external-link-alt"></i></a></li>
-<li>Dozer 是一款隐藏macOS菜单栏图标的应用，不同于 Bartender 和 Vanilla，Dozer 是免费、开源的。Dozer 操作方法也很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会出现另外一个「‧」，按住 <code>command</code> 键拖曳「‧」调整到适当位置，然后点击一下「‧」就会隐藏第一个「‧」左边的图标，重新显示也只需要点击「‧」即可。具体的大家可以上手体验一下，很简单的。</li>
-</ul>
-<h2 id="cheatsheet"><a class="markdownIt-Anchor" href="#cheatsheet"></a> CheatSheet</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://macwk.com/soft/cheatsheet" >https://macwk.com/soft/cheatsheet<i class="fas fa-external-link-alt"></i></a></li>
-<li>CheatSheet 是一款可以快速查看mac应用快捷键的工具，你只需按住⌘键（command）几秒的时间，即可获得当前使用的应用程序所有的快捷组合列表。快捷键组合 列表窗口的右下角有个齿轮图标，可以设置呼出延时以及退出 CheatSheet。应用快捷键窗口中的名称是英文还是中文完全根据你使用的应用的语言决定。</li>
-</ul>
-<h2 id="iterm2"><a class="markdownIt-Anchor" href="#iterm2"></a> iTerm2</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://iterm2.com/" >https://iterm2.com/<i class="fas fa-external-link-alt"></i></a></li>
-<li>iTerm2是Terminal的替代品，是iTerm的后继产品。 它适用于MacOS 10.14或更高版本的Mac。 iTerm2凭借您从未想过的功能将终端带入了现代时代。</li>
-</ul>
-<h2 id="fig"><a class="markdownIt-Anchor" href="#fig"></a> Fig</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://fig.io/" >https://fig.io/<i class="fas fa-external-link-alt"></i></a></li>
-<li>With Fig, you can add autocomplete to any CLI tool or script using a declarative TypeScript schema.</li>
-<li>下载：<a class="link"   target="_blank" rel="noopener" href="https://fig.io/invite/?code=yuGMx8azXL" >https://fig.io/invite/?code=yuGMx8azXL<i class="fas fa-external-link-alt"></i></a></li>
-</ul>
-<h2 id="clashx"><a class="markdownIt-Anchor" href="#clashx"></a> ClashX</h2>
-<ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://github.com/yichengchen/clashX/releases" >https://github.com/yichengchen/clashX/releases<i class="fas fa-external-link-alt"></i></a></li>
-<li>A rule based proxy For Mac base on Clash.</li>
-</ul>
-<pre><code>    &lt;/div&gt;
-
-    
-        &lt;div class=&quot;post-copyright-info&quot;&gt;
-            &lt;div class=&quot;article-copyright-info-container&quot;&gt;
-&lt;ul&gt;
-    &lt;li&gt;本文标题：mac应用推荐&lt;/li&gt;
-    &lt;li&gt;本文作者：Xhofe&lt;/li&gt;
-    &lt;li&gt;创建时间：2021-02-24 14:08:00&lt;/li&gt;
-    &lt;li&gt;
-        本文链接：https://nn.ci/posts/mac-software.html
-    &lt;/li&gt;
-    &lt;li&gt;
-        版权声明：本博客所有文章除特别声明外，均采用 &lt;a class=&quot;license&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh&quot;&gt;BY-NC-SA&lt;/a&gt; 许可协议。转载请注明出处！
-    &lt;/li&gt;
-&lt;/ul&gt;
-</code></pre>
-</div>
 ]]></content>
     </entry>
 </feed>
