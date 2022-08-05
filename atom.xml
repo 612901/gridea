@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-08-05T10:31:50.146Z</updated>
+    <updated>2022-08-05T10:45:19.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[43.ZY Player-免费开源资源播放器]]></title>
+        <id>https://612901.github.io/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/</id>
+        <link href="https://612901.github.io/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/">
+        </link>
+        <updated>2022-08-05T10:37:50.000Z</updated>
+        <content type="html"><![CDATA[<p>给大家推荐一款资源播放器：ZY Player(免费开源)</p>
+<h2>一、软件概述</h2>
+<blockquote><p>全平台支持。Windows，Mac，Linux</p><p>支持IPTV，卫视直播</p><p>视频源支持自定义，支持导入，导出</p><p>支持海报模式和列表模式浏览资源</p><p>播放历史，自动取消历史进度</p><p>收藏夹支持介绍，导出，支持同步追剧</p><p>支持精简模式，摸鱼划水</p><p>一键搜索所有资源，支持历史搜索记录</p><p>导出资源下载链接</p><p>支持第三方播放器播放</p><p>显示豆瓣评分</p></blockquote>
+<h2>二、软件详情</h2>
+<h3>1、Windows电脑版</h3>
+<p><strong>资源搜索</strong></p>
+<p><img loading="lazy" class="size-full wp-image-4138 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/SP_2021-01-09_15-48-28.jpg?x-oss-process=style/webp" alt="" width="1080" height="720" /></p>
+<p><strong>资源推荐</strong></p>
+<p><img loading="lazy" class="size-full wp-image-4139 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/SP_2021-01-09_15-46-19.jpg?x-oss-process=style/webp" alt="" width="1080" height="720" /></p>
+<p><strong>播放窗口</strong></p>
+<section>软件比较人性化，切换窗口自动暂停<img loading="lazy" class="size-full wp-image-4140 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/SP_2021-01-09_15-42-54.jpg?x-oss-process=style/webp" alt="" width="1080" height="720" /><strong>软件设置</strong></section>
+<section><img loading="lazy" class="size-full wp-image-4142 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/SP_2021-04-23_15-15-44.jpg?x-oss-process=style/webp" alt="" width="1080" height="720" /></section>
+<section>上面是收藏和播放历史内置4款软件主题</section>
+<p><img loading="lazy" class="size-full wp-image-4143 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/SP_2021-01-09_15-31-31.jpg?x-oss-process=style/webp" alt="" width="744" height="570" /></p>
+<h3>2、Android手机版</h3>
+<p><img loading="lazy" class="size-full wp-image-4141 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/20210109155826.jpg?x-oss-process=style/webp" alt="" width="1080" height="1080" srcset="https://cdn.jishusongshu.com/images/2021/04/20210109155826.jpg?x-oss-process=style/webp 1080w, https://cdn.jishusongshu.com/images/2021/04/20210109155826-45x45.jpg 45w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+<h2>三、下载地址</h2>
+<p>Github地址：<a href="https://github.com/Hunlongyu/ZY-Player/" target="_blank"  rel="nofollow" >https://github.com/Hunlongyu/ZY-Player/</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[42.BitDock-Mac风格启动栏+桌面工具]]></title>
         <id>https://612901.github.io/post/42bitdock-mac-feng-ge-qi-dong-lan-zhuo-mian-gong-ju/</id>
@@ -283,8 +308,7 @@
         <link href="https://612901.github.io/post/35alistskinshang-alist-mei-hua-bao-xia-zai-jiang-jie/">
         </link>
         <updated>2022-08-05T03:48:59.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>            &lt;h2&gt;前言&lt;/h2&gt;&lt;p&gt;最近，星环常常陆续的遇到前来找星环来要Alist程序的美化包。这个星环觉得是星环的荣幸，所以，讲一下如何下载对应的Alist程序美化包。&lt;/p&gt;&lt;h2&gt;介绍&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;alistSkin第一版&lt;/strong&gt;&lt;br&gt;alistSkin第一版的话对应的Alist程序的话，也是1.# 开头的版本，不支持2.#&lt;br&gt;美化后的样式是这样的：&lt;br&gt;&lt;img src=&quot;https://www.xhto.cn/usr/uploads/2022/03/4073196528.jpg&quot; alt=&quot;alistSkin01.jpg&quot; title=&quot;alistSkin01.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;alistSkin第二版&lt;/strong&gt;&lt;br&gt;alistSkin第二版的话对应的Alist程序的话，也是2.# 开头的版本，不支持1.#的。不过支持现在的版本&lt;br&gt;美化后的样式是这样的：&lt;br&gt;&lt;img src=&quot;https://www.xhto.cn/usr/uploads/2022/03/3217022341.jpg&quot; alt=&quot;alistSkin02.jpg&quot; title=&quot;alistSkin02.jpg&quot;&gt;&lt;/p&gt;&lt;h2&gt;下载地址&lt;/h2&gt;&lt;p&gt;alistSkin01：&lt;a href=&quot;https://pan.xhto.cn/Black/CodeDown/alistSkin_1.1.zip&quot;&gt;下载地址&lt;/a&gt;&lt;br&gt;alistSkin02：&lt;a href=&quot;https://pan.xhto.cn/Black/CodeDown/alistSkin_2.2.zip&quot;&gt;下载地址&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;扩展代码包【源代码，可支持在基础上修改】&lt;/em&gt;&lt;br&gt;alistSkin02.1：&lt;a href=&quot;https://pan.xhto.cn/CodeDown/alistSkin_2.1.zip&quot;&gt;源码下载&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;尾言&lt;/h2&gt;&lt;p&gt;如果只是想使用alistSkin美化的话，请使用【alistSkin02】下载，源码下载是没有美化的代码，给创作者准备的哟~&lt;/p&gt;    </code></pre>
-]]></content>
+        <content type="html"><![CDATA[<h2>前言</h2><p>最近，星环常常陆续的遇到前来找星环来要Alist程序的美化包。这个星环觉得是星环的荣幸，所以，讲一下如何下载对应的Alist程序美化包。</p><h2>介绍</h2><p><strong>alistSkin第一版</strong><br>alistSkin第一版的话对应的Alist程序的话，也是1.# 开头的版本，不支持2.#<br>美化后的样式是这样的：<br><img src="https://www.xhto.cn/usr/uploads/2022/03/4073196528.jpg" alt="alistSkin01.jpg" title="alistSkin01.jpg"></p><p><strong>alistSkin第二版</strong><br>alistSkin第二版的话对应的Alist程序的话，也是2.# 开头的版本，不支持1.#的。不过支持现在的版本<br>美化后的样式是这样的：<br><img src="https://www.xhto.cn/usr/uploads/2022/03/3217022341.jpg" alt="alistSkin02.jpg" title="alistSkin02.jpg"></p><h2>下载地址</h2><p>alistSkin01：<a href="https://pan.xhto.cn/Black/CodeDown/alistSkin_1.1.zip">下载地址</a><br>alistSkin02：<a href="https://pan.xhto.cn/Black/CodeDown/alistSkin_2.2.zip">下载地址</a></p><p><em>扩展代码包【源代码，可支持在基础上修改】</em><br>alistSkin02.1：<a href="https://pan.xhto.cn/CodeDown/alistSkin_2.1.zip">源码下载</a></p><h2>尾言</h2><p>如果只是想使用alistSkin美化的话，请使用【alistSkin02】下载，源码下载是没有美化的代码，给创作者准备的哟~</p>    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[34.万兴优转:“一站式”音视频图片工具箱]]></title>
@@ -298,46 +322,5 @@
 <p>高清无损压缩1000+格式，自定义压缩设置实时预览，批量快速压缩音视频文件，万兴优转录屏功能简单易用，热门视频网站录屏，实时游戏录制，网课教学录制，软件操作教程录制，直播视频录制等众多场景，也是你不可或缺的录屏神器。</p>
 <div id="attachment_2732" style="width: 1190px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-2732" loading="lazy" class="wp-image-2732 size-full" src="https://cdn.jishusongshu.com/images/2020/08/QFMUeNHh3c7En24.jpg?x-oss-process=style/webp" alt="" width="1180" height="683" /><p id="caption-attachment-2732" class="wp-caption-text">万兴优转_v11.0.8</p></div>
 <div id="attachment_2733" style="width: 1040px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-2733" loading="lazy" class="wp-image-2733 size-full" src="https://cdn.jishusongshu.com/images/2020/08/ijQ61CNtdWqKo5g.jpg?x-oss-process=style/webp" alt="" width="1030" height="678" /><p id="caption-attachment-2733" class="wp-caption-text">Wondershare UniConverter_v12.0.2</p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33.Win10深色主题，了解一下]]></title>
-        <id>https://612901.github.io/post/33win10-shen-se-zhu-ti-liao-jie-yi-xia/</id>
-        <link href="https://612901.github.io/post/33win10-shen-se-zhu-ti-liao-jie-yi-xia/">
-        </link>
-        <updated>2022-08-05T03:21:04.000Z</updated>
-        <content type="html"><![CDATA[<p>界面也越来越富有个性化特点。</p>
-<p>自1809版开始支持深色主题模式，</p>
-<p><img loading="lazy" class="size-large wp-image-1733 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/0002-1024x558.jpg?x-oss-process=style/webp" alt="" width="600" height="558" /></p>
-<p>深色主题减少显示刺眼的亮色 <a style="vertical-align: text-bottom; display: inline-block; max-width: 40px; max-height: 40px;" href="https://www.jishusongshu.com/wp-content/plugins/xiaoben_emoji/public/image/emoji/qqguzhang.gif" data-fancybox="images"><img style="vertical-align: text-bottom; display: inline-block; max-width: 40px; max-height: 40px;" src="https://www.jishusongshu.com/wp-content/plugins/xiaoben_emoji/public/image/emoji/qqguzhang.gif" /></a></p>
-<p>对眼睛更健康，特别是夜晚使用时，</p>
-<p>深色模式也叫夜间（黑夜）模式。<span id="more-1732"></span></p>
-<h2>一、Win 10开启深色模式</h2>
-<p>方法：桌面右键单击-个性化-颜色</p>
-<p><img loading="lazy" class="size-full wp-image-1734 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/0004.jpg?x-oss-process=style/webp" alt="" width="650" height="621" /></p>
-<p>如何查看Windows 10版本号？</p>
-<p><img loading="lazy" class="alignnone size-large wp-image-1735" src="https://cdn.jishusongshu.com/images/2020/10/0005-1024x688.jpg?x-oss-process=style/webp" alt="" width="1024" height="688" srcset="https://cdn.jishusongshu.com/images/2020/10/0005-1024x688.jpg?x-oss-process=style/webp 1024w, https://cdn.jishusongshu.com/images/2020/10/0005-300x202.jpg 300w, https://cdn.jishusongshu.com/images/2020/10/0005-768x516.jpg 768w, https://cdn.jishusongshu.com/images/2020/10/0005.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
-<p>如果不是1809版及以上也不要气馁</p>
-<p>试试更新一下Windows系统吧! <a style="vertical-align: text-bottom; display: inline-block; max-width: 40px; max-height: 40px;" href="https://www.jishusongshu.com/wp-content/plugins/xiaoben_emoji/public/image/emoji/qqtuosai.gif" data-fancybox="images"><img style="vertical-align: text-bottom; display: inline-block; max-width: 40px; max-height: 40px;" src="https://www.jishusongshu.com/wp-content/plugins/xiaoben_emoji/public/image/emoji/qqtuosai.gif" /></a></p>
-<p>&nbsp;</p>
-<p>系统自带的Edge也支持深色模式</p>
-<p>具体设置方法如下图：</p>
-<p><img loading="lazy" class="size-full wp-image-1736 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/0008.jpg?x-oss-process=style/webp" alt="" width="650" height="768" /></p>
-<p><img loading="lazy" class="size-large wp-image-1737 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/0009-1024x556.jpg?x-oss-process=style/webp" alt="" width="650" height="556" /></p>
-<p>这样切换是不是有点麻烦？</p>
-<p>如果能够定时改变系统色调</p>
-<p>甚至是壁纸，那该多好啊！</p>
-<p>下面这款软件可以做到这几点</p>
-<h2>二、Auto Dark Mode</h2>
-<p>用该软件修改主题颜色也更方便</p>
-<p><img loading="lazy" class="size-full wp-image-1738 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/0011.gif?x-oss-process=style/webp" alt="" width="639" height="393" /></p>
-<p>默认7:00-19:00开启白色主题</p>
-<p><img loading="lazy" class="wp-image-1739 size-full" src="https://cdn.jishusongshu.com/images/2020/10/0013.jpg?x-oss-process=style/webp" alt="" width="458" height="246" srcset="https://cdn.jishusongshu.com/images/2020/10/0013.jpg?x-oss-process=style/webp 458w, https://cdn.jishusongshu.com/images/2020/10/0013-300x161.jpg 300w" sizes="(max-width: 458px) 100vw, 458px" /></p>
-<p style="text-align: center;">这个功能需要1903版及以上</p>
-<p>配置桌面背景</p>
-<p><img loading="lazy" class="wp-image-1740 size-full" src="https://cdn.jishusongshu.com/images/2020/10/0014.jpg?x-oss-process=style/webp" alt="" width="500" height="356" /></p>
-<p style="text-align: center;">最后不要忘记点应用啦~</p>
-<h2>三、软件下载</h2>
-<p>GitHub地址：</p>
-<p><a href="https://github.com/Armin2208/Windows-Auto-Night-Mode/" target="_blank"  rel="nofollow" >https://github.com/Armin2208/Windows-Auto-Night-Mode/</a></p>]]></content>
     </entry>
 </feed>
