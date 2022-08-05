@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-08-05T06:28:39.351Z</updated>
+    <updated>2022-08-05T10:16:05.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -10,6 +10,262 @@
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[42.BitDock-Mac风格启动栏+桌面工具]]></title>
+        <id>https://612901.github.io/post/42bitdock-mac-feng-ge-qi-dong-lan-zhuo-mian-gong-ju/</id>
+        <link href="https://612901.github.io/post/42bitdock-mac-feng-ge-qi-dong-lan-zhuo-mian-gong-ju/">
+        </link>
+        <updated>2022-08-05T09:55:55.000Z</updated>
+        <content type="html"><![CDATA[<p>BitDock是一款运行在Windows系统中的停靠栏工具，这种停靠栏很有个性，而且很适用。它让你在使用Windows更加的动感，而且还支持使用拖曳的方式来自定义要启动的程序，或是资料夹，内置了多款实用工具，让你自己轻松打造一个动感味十足，界面漂亮，占用极少资源的个人专属快捷工具栏。</section></p>
+</blockquote>
+<p title="BitDock设置详解">整体概览</p>
+<p title="BitDock设置详解"><a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659693984439.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659693984439.jpg" /></a></p>
+<p>类似的软件还有MyDockFinder：<a href="https://mp.weixin.qq.com/s/hBn0OTklKnLidjFqg4iFTA" target="_blank" rel="noopener" data-linktype="2" rel="nofollow" >Windows下的macOS UI</a></p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694025755.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694025755.gif" /></a></p>
+<p>区别：MyDockFinder是完全免费的软件，BitDock是已经开始尝试商业化。MyDockFinder最新版对Windows 7/8的兼容性不太好，BitDock兼容Windows 7/8。</p>
+<p>如果追求极简的体验：<strong><a href="https://mp.weixin.qq.com/s/hBn0OTklKnLidjFqg4iFTA" target="_blank"  rel="nofollow" >软媒桌面（mydesk）</a></strong>不错</p>
+<p><strong>二、详细介绍</strong></p>
+<p>第一个是资源管理器，第二个是LaunchPad</p>
+<p>LaunchPad左边可以调整显示样式</p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694072801.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694072801.jpg" /></a></p>
+<p title="BitDock设置详解">任务栏图标</p>
+<p title="BitDock设置详解"><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694107310.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694107310.jpg" /></a></p>
+<p title="BitDock设置详解">关机选项</p>
+<p title="BitDock设置详解"><a href=" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="" /></a></p>
+<p>dock栏右键菜单</p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694226997.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694226997.png" /></a></p>
+<p>桌面工具</p>
+<p>右键任务栏图标-桌面工具</p>
+<p title="BitDock设置详解"><a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694262009.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694262009.jpg" /></a></p>
+<p><a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694367585.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694367585.jpg" /></a></p>
+<p><a href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694474452.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694474452.jpg" /></a></p>
+<h2>三、软件设置</h2>
+<p>软件设置挺丰富的</p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694329079.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659694329079.gif" /></a></p>
+<p class="video-title" title="BitDock设置详解"><span class="tit">BitDock设置详解</span></p>
+<div class="smartideo">
+<div class="player">
+                    <iframe loading="lazy" src="//player.bilibili.com/player.html?bvid=BV1eE411A7ht&#038;cid=&#038;page=1" width="100%" height="100%" frameborder="0" allowfullscreen="true"></iframe>
+                </div>
+</div>
+<p>更多软件介绍：<a href="https://mp.weixin.qq.com/s/YCobv5Gu8QT3shg1fMp5XA" target="_blank"  rel="nofollow" >BitDock | Mac风格启动栏+桌面工具</a></p>
+<h2>四、软件下载</h2>
+<p>官网地址：<a href="http://www.bitdesk.cn/" target="_blank"  rel="nofollow" >http://www.bitdesk.cn/</a></p>
+<p>会员也不贵￥2/月，￥20/年，￥99/永久</p>
+<p>&gt;&gt;<a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" >数码荔枝正版软件商城</a></p>
+<p><a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" ><a loading="lazy" class="alignnone" href="https://img.szfx.top/images/BitDock_qrcode.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img loading="lazy" class="alignnone" src="https://img.szfx.top/images/BitDock_qrcode.jpg" alt="" width="1000" height="416" /></a></a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[41.电脑聊天娱乐变声器]]></title>
+        <id>https://612901.github.io/post/41dian-nao-liao-tian-yu-le-bian-sheng-qi/</id>
+        <link href="https://612901.github.io/post/41dian-nao-liao-tian-yu-le-bian-sheng-qi/">
+        </link>
+        <updated>2022-08-05T09:47:55.000Z</updated>
+        <content type="html"><![CDATA[<p>推荐一款电脑变声软件：：MorphVOX Pro。这款软件挺有趣的，可以在打游戏、聊天等情境中，实现实时输出变声，从而保护隐私。<br />
+但也有用此类软件坑蒙拐骗的，PS：若陌生人与你语音聊天，而且是很萌很娇的女声，那你要小心了，说不定他就是使用变声软件的抠脚骗子。</p>
+<p>好啦，下面介绍一下这款软件吧！</p>
+<h2>一、软件介绍</h2>
+<p>软件中国区代理网站描述：</p>
+<blockquote><p>MorphVOX Pro 变音器具有高质量变音、多重背景音效、多平台适配等特点，将在网络游戏和即时通讯中给予用户强大支持。MorphVOX Pro 变音器能够直接将语音录制成文件，或将音频文件进行变音。使用该工具，达到文件变音效果，或帮助配音员创建多种语音角色，节省时间和金钱。</p></blockquote>
+<p>软件下载之后，按说明文档一步步安装即可</p>
+<h2>二、软件配置</h2>
+<p>安装完成后需要配置一下：右键音量—录音设备</p>
+<p style="text-align: left;"><img loading="lazy" class="wp-image-2465 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqpz.jpg?x-oss-process=style/webp" alt="" width="238" height="147" /></p>
+<p style="text-align: left;">把Screaming Bee Audio设置为默认设备（不需要变声时再改回）<br />
+<img loading="lazy" class="size-full wp-image-2466 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqsysz.jpg?x-oss-process=style/webp" alt="" width="479" height="588" srcset="https://cdn.jishusongshu.com/images/2020/11/bsqsysz.jpg?x-oss-process=style/webp 479w, https://cdn.jishusongshu.com/images/2020/11/bsqsysz-60x75.jpg 60w" sizes="(max-width: 479px) 100vw, 479px" /></p>
+<p>打开的主界面</p>
+<p><img loading="lazy" class="size-full wp-image-2467 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqzjm.jpg?x-oss-process=style/webp" alt="" width="912" height="677" /></p>
+<p>主要从下面的两个面板调节音质</p>
+<p><img loading="lazy" class="size-full wp-image-2468 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqyyxg.jpg?x-oss-process=style/webp" alt="" width="245" height="313" /></p>
+<p>右下语音效果可直接选预设，建议使用耳麦等外设。</p>
+<p>使用带麦耳机效果还可以，若电脑自带的，啸叫会很明显。</p>
+<p>科普一下啸叫产生的条件：</p>
+<blockquote><p>1) 话筒与音箱同时使用。2) 音响系统重放的声音能够通过空间传到话筒。3) 音箱发出的声音能量足够大，话筒的拾音灵敏度足够高。</p></blockquote>
+<p>举实例：TIM使用变声器配置</p>
+<p>打开设置—音视频通话—麦克风</p>
+<p>选择Screaming Bee Audio确定即可</p>
+<p><img loading="lazy" class="size-full wp-image-2469 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/timbsqsz.jpg?x-oss-process=style/webp" alt="" width="700" height="508" /></p>
+<p>之后像平时通话聊天使用耳麦即可</p>
+<h2>三、官网地址</h2>
+<p>MORPHVOX官网</p>
+<p><a href="https://screamingbee.com/product/MorphVOX.aspx" target="_blank"  rel="nofollow" >https://screamingbee.com/product/MorphVOX.aspx</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40.Honeyview：蜂蜜浏览器]]></title>
+        <id>https://612901.github.io/post/40honeyviewfeng-mi-liu-lan-qi/</id>
+        <link href="https://612901.github.io/post/40honeyviewfeng-mi-liu-lan-qi/">
+        </link>
+        <updated>2022-08-05T09:25:13.000Z</updated>
+        <content type="html"><![CDATA[<p>推荐一款看图软件Honeyview（蜂蜜浏览器）：简洁、迅速、无广告的Windows端免费的软件。<span id="more-2784"></span></p>
+<blockquote><p>Honeyview是Bandisoft开发并发布的一款免费的超快图像查看器。这个项目对个人、企业、政府等都是免费的。</p></blockquote>
+<p><a class="aligncenter" href="https://img.szfx.top/images/logoh0002.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://img.szfx.top/images/logoh0002.png" /></a></p>
+<h2>一、前言</h2>
+<p>一般来说我们用Windows系统自带的图片查看器就足以查看各种图片格式，比如JPG、PNG、GIF等格式。Win 7、8自带的图片查看软件为Windows 照片查看器。Win 10的为Microsoft 照片（查看速度可能没有前者快）。但要查看PSD、RAW等格式文件使用Honeyview会更方便。</p>
+<h2>二、功能介绍</h2>
+<h3>1、无边框查看图片</h3>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659691745748.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659691745748.gif" /></a></p>
+<p>配置无边框需在浏览选项卡设置</p>
+<div id="attachment_2787" style="width: 721px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-2787" loading="lazy" class="wp-image-2787 size-full" src="https://cdn.jishusongshu.com/images/2020/11/0005.png?x-oss-process=style/webp" alt="" width="711" height="421" /><p id="caption-attachment-2787" class="wp-caption-text">无边框设置</p></div>
+<h3>2、快速查看RAW照片</h3>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692227072.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692227072.gif" /></a></p>
+<p>RAW图片举例：</p>
+<p><img loading="lazy" class="wp-image-2788 size-full" src="https://cdn.jishusongshu.com/images/2020/11/SP_2020-11-22_19-24-38.jpg?x-oss-process=style/webp" alt="" width="400" height="492" /></p>
+<p style="text-align: center;">RAW图片格式</p>
+<h3>3、查看照片EXIF信息</h3>
+<p>可以很方便查看图片拍摄时的参数：焦距、快门速度、光圈数、感光度等。</p>
+<p><img loading="lazy" class="size-full wp-image-2789 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/0010.jpg?x-oss-process=style/webp" alt="" width="730" height="554" /></p>
+<p>点击左上角EXIF按钮</p>
+<h3>4、图片智能对开功能</h3>
+<p>用于对比图片或连续看图</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-2790" src="https://cdn.jishusongshu.com/images/2020/11/0012.jpg?x-oss-process=style/webp" alt="" width="1080" height="667" /></p>
+<h3>5、右键预览PSD图片</h3>
+<p>点击预览图即可用查看大图</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-2791" src="https://cdn.jishusongshu.com/images/2020/11/0013.png?x-oss-process=style/webp" alt="" width="653" height="505" /></p>
+<h3>6、速览压缩包内图片</h3>
+<p>搭配Bandizip可连续查看压缩包内的图</p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692264512.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692264512.gif" /></a></p>
+<h3>7、简单调整图片</h3>
+<p>旋转、裁剪、品质设置，支持将图片转换成格式JPG、PNG、WEBP、BPG、BMP</p>
+<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692372088.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659692372088.gif" /></a></p>
+<p style="text-align: center;">编辑-转换图片（旋转，裁剪）</p>
+<p>各种支持图片格式关联方法：</p>
+<p><img loading="lazy" class="size-full wp-image-2793 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/0016.png?x-oss-process=style/webp" alt="" width="741" height="437" /></p>
+<h2>三、官网及下载</h2>
+<p>官网地址：<a href="http://www.bandisoft.com/honeyview/" target="_blank"  rel="nofollow" >http://www.bandisoft.com/honeyview/</a></p>
+<br />
+			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>Honeyview_v5.35</span></font><br>
+				<font color=#000 class="down-price">适用版本：Windows XP/Vista/7/8/8.1/10</font><br>
+				<font color=#000  class="down-ordinary">更新日期：2020-09-07</font><br>
+		    	<font color=#000  class="down-vip">文件大小：7.63M</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="Honeyview_v5.35" href="https://www.jishusongshu.com/download.php?id=2784"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>			]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[39.Rainmeter：电脑桌面美化神器]]></title>
+        <id>https://612901.github.io/post/39rainmeterdian-nao-zhuo-mian-mei-hua-shen-qi/</id>
+        <link href="https://612901.github.io/post/39rainmeterdian-nao-zhuo-mian-mei-hua-shen-qi/">
+        </link>
+        <updated>2022-08-05T07:31:45.000Z</updated>
+        <content type="html"><![CDATA[<p>桌面美化软件：Rainmeter。</p>
+<p>先来看看使用后的效果<span style="text-align: center;">：</span></p>
+<div id="attachment_1704" style="width: 730px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1704" loading="lazy" class="wp-image-1704 size-full" style="text-align: center;" title="v2-41baf45c3b2fb768651430de66364ee4_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-41baf45c3b2fb768651430de66364ee4_720w.jpg?x-oss-process=style/webp" alt="Glass them all" width="720" height="405" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-41baf45c3b2fb768651430de66364ee4_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-41baf45c3b2fb768651430de66364ee4_720w-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><p id="caption-attachment-1704" class="wp-caption-text">Glass them all</p></div>
+<figure data-size="normal">
+<p><div id="attachment_1705" style="width: 730px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1705" loading="lazy" class="wp-image-1705 size-full" title="v2-9ca596b09b80c09749518fc4b1780632_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-9ca596b09b80c09749518fc4b1780632_720w.jpg?x-oss-process=style/webp" alt="Neon Space" width="720" height="390" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-9ca596b09b80c09749518fc4b1780632_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-9ca596b09b80c09749518fc4b1780632_720w-300x163.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><p id="caption-attachment-1705" class="wp-caption-text">Neon Space</p></div></figure>
+<figure data-size="normal">
+<p><div id="attachment_1706" style="width: 730px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1706" loading="lazy" class="wp-image-1706 size-full" title="v2-625a406b1b6238997b8626c775784b9f_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-625a406b1b6238997b8626c775784b9f_720w.jpg?x-oss-process=style/webp" alt="Hive" width="720" height="405" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-625a406b1b6238997b8626c775784b9f_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-625a406b1b6238997b8626c775784b9f_720w-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><p id="caption-attachment-1706" class="wp-caption-text">Hive</p></div></figure>
+<figure data-size="normal">
+<p><div id="attachment_1707" style="width: 730px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-1707" loading="lazy" class="wp-image-1707 size-full" title="v2-6cae5c9c210f046cf950d72c7c7cc69d_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-6cae5c9c210f046cf950d72c7c7cc69d_720w.jpg?x-oss-process=style/webp" alt="Eker_lina" width="720" height="405" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-6cae5c9c210f046cf950d72c7c7cc69d_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-6cae5c9c210f046cf950d72c7c7cc69d_720w-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><p id="caption-attachment-1707" class="wp-caption-text">Eker_lina</p></div></figure>
+<figure data-size="normal">
+<p><div id="attachment_1708" style="width: 730px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-1708" loading="lazy" class="wp-image-1708 size-full" title="v2-9a3f57a63987fa0b54773037ba1a97aa_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-9a3f57a63987fa0b54773037ba1a97aa_720w.jpg?x-oss-process=style/webp" alt="My Room" width="720" height="405" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-9a3f57a63987fa0b54773037ba1a97aa_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-9a3f57a63987fa0b54773037ba1a97aa_720w-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><p id="caption-attachment-1708" class="wp-caption-text">My Room</p></div></figure>
+<p>是不是感觉很好看[太阳]</p>
+<p>类似效果大家可以自行搭配实现！</p>
+<h2><b>一、</b>安装Rainmeter</h2>
+<p><span id="more-1703"></span>软件官网：</p>
+<p><a class=" wrap external" href="https://www.rainmeter.net/" target="_blank" rel="nofollow noopener noreferrer" data-za-detail-view-id="1043" rel="nofollow" >Rainmeter, desktop customization tool</a></p>
+<p>下载安装包（3M左右），可能下载比较慢</p>
+<p><img loading="lazy" class="size-full wp-image-1724 aligncenter" src="https://cdn.jishusongshu.com/images/2020/10/SP_2020-1009_23-12-31.jpg?x-oss-process=style/webp" alt="" width="450" height="285" /></p>
+<p>安装软件时，建议选择默认路径</p>
+<h2><b>二、获取美化资源</b></h2>
+<p>各大论坛有不少皮肤资源，也可搜索引擎去搜</p>
+<p>如果你想要上面的皮肤，可以文末获取</p>
+<h2><b>三、配置皮肤插件</b></h2>
+<p>可参考漫锋网：<a class=" wrap external" href="https://zhutix.com/study/rainmeter-jc/" target="_blank" rel="nofollow noopener noreferrer" data-za-detail-view-id="1043" rel="nofollow" >Rainmeter皮肤使用教程</a></p>
+<p><b>要点</b></p>
+<p>1.<b>（1）若为绿色水滴图标，则可双击直接安装</b></p>
+<p><b>（2） 若为文件夹式皮肤，则需将文件夹复制到</b></p>
+<p>C:\Users\Administrator\Documents\Rainmeter\Skins</p>
+<p>2. 配置皮肤：任务栏右键水滴图标 &#8211; 管理即现</p>
+<figure data-size="small"><img loading="lazy" class="size-full wp-image-1713 aligncenter" title="v2-5dd250f9c1dfdd4c6f73f4477a451f3f_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-5dd250f9c1dfdd4c6f73f4477a451f3f_720w.jpg?x-oss-process=style/webp" alt="v2-5dd250f9c1dfdd4c6f73f4477a451f3f_720w" width="500" height="517" /><figcaption></figcaption></figure>
+<p>双击左边的ini文件，即可激活该皮肤</p>
+<p>在右边可以编辑位置、透明度、是否穿透等</p>
+<p>也可以在插件上右键</p>
+<figure data-size="normal"><img loading="lazy" class="size-full wp-image-1714 aligncenter" title="v2-0bb3e20ad0277fa00dde2068c8ad9d8f_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-0bb3e20ad0277fa00dde2068c8ad9d8f_720w.jpg?x-oss-process=style/webp" alt="v2-0bb3e20ad0277fa00dde2068c8ad9d8f_720w" width="400" height="351" /></figure>
+<p>也可以<b>编辑皮肤，</b>比如<b>快速启动</b>的功能插件</p>
+<p>修改软件或文件夹的<b>路径</b>，<b>刷新</b>皮肤即可</p>
+<figure data-size="normal"><img loading="lazy" class="size-full wp-image-1715 aligncenter" title="v2-3adc493e6c5262d23016d7aed1542e18_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-3adc493e6c5262d23016d7aed1542e18_720w.jpg?x-oss-process=style/webp" alt="v2-3adc493e6c5262d23016d7aed1542e18_720w" width="450" height="517" /></figure>
+<p>觉得皮肤图案太丑，你可以找到该皮肤所在文件夹</p>
+<p>把那个图形<b>替换</b>掉（<b>文件名</b>要和原来的一致）</p>
+<p>图片<b>宽高</b>像素和原来的<b>相似，使得其</b>大小合适</p>
+<p>快打造属于你自己<b>称心如意</b>的桌面吧！</p>
+<p>文中壁纸，感谢壁纸的作者！</p>
+<figure data-size="normal"><img loading="lazy" class="alignnone size-full wp-image-1717" title="v2-a6f682b5de3710cf81a6db8f5634a7a5_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-a6f682b5de3710cf81a6db8f5634a7a5_720w.jpg?x-oss-process=style/webp" alt="v2-a6f682b5de3710cf81a6db8f5634a7a5_720w" width="720" height="450" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-a6f682b5de3710cf81a6db8f5634a7a5_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-a6f682b5de3710cf81a6db8f5634a7a5_720w-300x188.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure data-size="normal"><img loading="lazy" class="alignnone size-full wp-image-1718" title="v2-a2d38c32f6b7cf83564d4b7260601712_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-a2d38c32f6b7cf83564d4b7260601712_720w.jpg?x-oss-process=style/webp" alt="v2-a2d38c32f6b7cf83564d4b7260601712_720w" width="720" height="445" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-a2d38c32f6b7cf83564d4b7260601712_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-a2d38c32f6b7cf83564d4b7260601712_720w-300x185.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure data-size="normal"><img loading="lazy" class="alignnone size-full wp-image-1719" title="v2-1d25f2fbc6b98db2a2906b302e59de00_720w" src="https://cdn.jishusongshu.com/images/2020/10/v2-1d25f2fbc6b98db2a2906b302e59de00_720w.jpg?x-oss-process=style/webp" alt="v2-1d25f2fbc6b98db2a2906b302e59de00_720w" width="720" height="405" srcset="https://cdn.jishusongshu.com/images/2020/10/v2-1d25f2fbc6b98db2a2906b302e59de00_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/10/v2-1d25f2fbc6b98db2a2906b302e59de00_720w-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<p>更多壁纸:</p>
+<p><a href="https://zhuanlan.zhihu.com/p/62889556" target="_blank"  rel="nofollow" >壁纸系列 (1) | 星空壁纸</a>  <a href="https://zhuanlan.zhihu.com/p/63081973" target="_blank"  rel="nofollow" >壁纸系列(2) | 自然景观</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/64379474" target="_blank"  rel="nofollow" >壁纸系列 (3) | 动漫壁纸</a>  <a href="https://zhuanlan.zhihu.com/p/77328909" target="_blank"  rel="nofollow" >壁纸系列 (5) | 情侣壁纸</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38.HD Video高清视频转换工厂Pro]]></title>
+        <id>https://612901.github.io/post/38hd-video-gao-qing-shi-pin-zhuan-huan-gong-han-pro/</id>
+        <link href="https://612901.github.io/post/38hd-video-gao-qing-shi-pin-zhuan-huan-gong-han-pro/">
+        </link>
+        <updated>2022-08-05T07:27:54.000Z</updated>
+        <content type="html"><![CDATA[<section>HD Video Converter Factory，国外转换速度极快的高清视频转换器，支持300多种视频格式转换，有视频转换器、视频合并、视频下载、屏幕录像、GIF制作、图片转视频、铃声工具等功能。</section>
+<p><a class="aligncenter" href="https://i.loli.net/2020/08/04/5DGHmAfVIg6ZnMe.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://i.loli.net/2020/08/04/5DGHmAfVIg6ZnMe.jpg" /></a></p>
+<p>软件详情介绍：<br />
+<a href="https://mp.weixin.qq.com/s/U_YoZQU8vzpGsIT3mq2BHw" target="_blank"  rel="nofollow" >https://mp.weixin.qq.com/s/U_YoZQU8vzpGsIT3mq2BHw</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[37.PicGo：免费搭建个人图床]]></title>
+        <id>https://612901.github.io/post/37picgomian-fei-da-jian-ge-ren-tu-chuang/</id>
+        <link href="https://612901.github.io/post/37picgomian-fei-da-jian-ge-ren-tu-chuang/">
+        </link>
+        <updated>2022-08-05T06:41:40.000Z</updated>
+        <content type="html"><![CDATA[<p>免费搭建个人图床工具PicGo：</p>
+<p>支持Windows、MacOS 和 Linux，</p>
+<p>软件目前覆盖的图床有8个平台：</p>
+<blockquote><p>SM.MS图床、腾讯云COS、GitHub图床、七牛图床、Imgur图床、阿里云OSS、又拍云图床</p></blockquote>
+<p><a class="aligncenter" href="https://img.szfx.top/images/PicGologo.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://img.szfx.top/images/PicGologo.jpg" /></a></p>
+<h2>一、软件介绍</h2>
+<p>PicGo支持拖动上传图片，完成后提示</p>
+<p>提供五种链接格式：markdown、HTML、URL、UBB、Custom</p>
+<p><img src="https://cdn.jishusongshu.com/images/2020/04/SP_2020-0407_14-49-51.jpg?x-oss-process=style/webp" /></p>
+<p>相册可以批量复制和删除</p>
+<p>删除列表并未删除图床内的图</p>
+<p><img src="https://cdn.jishusongshu.com/images/2020/04/SP_2020-0407_14-51-32.jpg?x-oss-process=style/webp" /></p>
+<p>右上角⊕变小巧悬浮球</p>
+<p>右键可选从剪贴板上传</p>
+<p><img class="aligncenter" src="https://cdn.jishusongshu.com/images/2020/04/xuanf.jpg?x-oss-process=style/webp" /></p>
+<p>官方提供了很多扩展插件</p>
+<p><a class="aligncenter" href="https://i.loli.net/2020/04/09/PcJSs8z4A1grCpm.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://i.loli.net/2020/04/09/PcJSs8z4A1grCpm.jpg" /></a></p>
+<p><a href="https://github.com/PicGo/Awesome-PicGo" target="_blank"  rel="nofollow" >https://github.com/PicGo/Awesome-PicGo</a></p>
+<p>笔者安装了四个扩展插件：</p>
+<p><strong>autocopy</strong>：上传图片后自动复制网址到剪贴板</p>
+<p><strong>smms-user</strong>：用于SM.MS的注册用户</p>
+<p><strong>super-prefix</strong>：用于自定义图像文件名和前缀</p>
+<p><strong>watermark</strong>：PicGo的水印插件</p>
+<p><img class="aligncenter" src="https://cdn.jishusongshu.com/images/2020/04/SP_2020-0408_16-03-41.jpg?x-oss-process=style/webp" /></p>
+<p>建议在线安装，离线安装很麻烦</p>
+<p>在搜索栏搜索名称即可选择安装</p>
+<p>如果GitHub加载很慢，试试下面</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzUxOTk2Njc0OQ==&amp;mid=2247487335&amp;idx=1&amp;sn=2cfdb41c2ec3bc2bccebee026b3f79e1&amp;scene=21#wechat_redirect" target="_blank" rel="noopener noreferrer" data-linktype="2" rel="nofollow" >GitHub打开慢、图片加载失败？</a></p>
+<h2>二、图床配置</h2>
+<p>这里以SM.MS图床配置为例</p>
+<h3><strong>1、注册SM.MS账号</strong></h3>
+<p><a href="https://sm.ms/login" target="_blank"  rel="nofollow" >https://sm.ms/login</a></p>
+<p><img class="aligncenter" src="https://cdn.jishusongshu.com/images/2020/04/re.jpg?x-oss-process=style/webp" /></p>
+<h3><strong>2、获取API Token</strong></h3>
+<p><a href="https://sm.ms/home/apitoken" target="_blank"  rel="nofollow" >https://sm.ms/home/apitoken</a></p>
+<p><img class="aligncenter" src="https://cdn.jishusongshu.com/images/2020/04/SP_2020-0408_16-58-25.jpg?x-oss-process=style/webp" /></p>
+<h3><strong>3、安装PicGo插件</strong></h3>
+<p>插件设置界面搜索smms-user安装</p>
+<p>picgo-plugin-smms-user详情：</p>
+<p><a href="https://github.com/xlzy520/picgo-plugin-smms-user" target="_blank"  rel="nofollow" >https://github.com/xlzy520/picgo-plugin-smms-user</a></p>
+<h3><strong>4、PicGo内填入API Token</strong></h3>
+<p><img class="aligncenter" src="https://cdn.jishusongshu.com/images/2020/04/auth.jpg?x-oss-process=style/webp" /></p>
+<p style="text-align: center;">可设为默认图床</p>
+<h3><strong>5、上传一张图测试是否成功</strong></h3>
+<h2>三、软件官网</h2>
+<p>软件目前更新至vv2.3.0-beta.4</p>
+<p>PicGo官网地址</p>
+<p><a href="https://molunerfinn.com/PicGo/" target="_blank"  rel="nofollow" >https://molunerfinn.com/PicGo/</a></p>
+<p>在GitHub项目地址</p>
+<p><a href="https://github.com/Molunerfinn/PicGo" target="_blank"  rel="nofollow" >https://github.com/Molunerfinn/PicGo</a></p>
+<p>PicGo文档地址</p>
+<p><a href="https://picgo.github.io/PicGo-Doc/zh/guide/" target="_blank"  rel="nofollow" >https://picgo.github.io/PicGo-Doc/zh/guide/</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[36.alistskin:Alist网盘程序alistSkin美化包安装教程]]></title>
         <id>https://612901.github.io/post/35alistskinalist-mei-hua-bao/</id>
@@ -83,352 +339,5 @@
 <h2>三、软件下载</h2>
 <p>GitHub地址：</p>
 <p><a href="https://github.com/Armin2208/Windows-Auto-Night-Mode/" target="_blank"  rel="nofollow" >https://github.com/Armin2208/Windows-Auto-Night-Mode/</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32.TaskbarX：电脑任务栏美化神器]]></title>
-        <id>https://612901.github.io/post/32taskbarxdian-nao-ren-wu-lan-mei-hua-shen-qi/</id>
-        <link href="https://612901.github.io/post/32taskbarxdian-nao-ren-wu-lan-mei-hua-shen-qi/">
-        </link>
-        <updated>2022-08-05T03:14:56.000Z</updated>
-        <content type="html"><![CDATA[<p>TaskbarX原名FalconX，是一款可以Windows端可修改任务栏及图标的显示样式的软件。<span id="more-2808"></span></p>
-<h2>一、软件介绍</h2>
-<p>&nbsp;</p>
-<blockquote><p>TaskbarX使您可以控制任务栏图标的位置。 TaskbarX将带给您原始的Windows Dock感觉。 从任务栏添加或删除图标时，图标将移动到中心或用户指定的位置。 您可以选择在各种不同的动画之间进行选择并更改其速度。 如果您不喜欢动画并希望它们立即移动，则可以禁用动画。 也可以更改中心位置，以根据中心位置将图标更多地移到左侧或右侧。 当前支持所有任务栏设置，包括垂直任务栏和无限任务栏。 TaskbarX自2018年5月6日以来一直在开发中。也称为FalconX和Falcon10。</p></blockquote>
-<p><a href="https://img.szfx.top/images/fal0003.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/images/fal0003.jpg" /></a></p>
-<p>先介绍旧版FalconX</p>
-<p>有些朋友可能认为居中更好看，其实居中也可更快移动到图标。</p>
-<p><img loading="lazy" class="size-full wp-image-2809 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/falc0002.jpg?x-oss-process=style/webp" alt="" width="1080" height="306" /></p>
-<p>旧版本软件只有 100 多 KB，分为 32 位以及 64 位版本，而且基本不占用系统资源。</p>
-<p><a class="aligncenter" href="https://img.szfx.top/images/inffal.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://img.szfx.top/images/inffal.jpg" /></a></p>
-<h2>二、具体功能</h2>
-<h3>1、任务栏透明效果</h3>
-<p>该软件可以让任务栏显示三种效果</p>
-<p>1、Transparent：透明；2、Blur：模糊  3、Acrylic (UnStable)（不稳定，不知具体效果，这里显示原态）</p>
-<p><img loading="lazy" class="size-full wp-image-2810 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/SP_2020-11-22_21-09-06.jpg?x-oss-process=style/webp" alt="" width="1072" height="415" /></p>
-<p style="text-align: center;">Blur、Transparent 在 Win 8 下为透明和黑色</p>
-<h3>2、任务栏图标居中</h3>
-<p>状态栏在其他位置的效果</p>
-<p><img loading="lazy" class="wp-image-2811 size-full" src="https://cdn.jishusongshu.com/images/2020/11/fal0009.jpg?x-oss-process=style/webp" alt="" width="1080" height="607" /></p>
-<p style="text-align: center;">上方、右方显示正常，左方不能居中</p>
-<p>图标到两边的距离也可以自定义</p>
-<p><img loading="lazy" class="wp-image-2812 size-full" src="https://cdn.jishusongshu.com/images/2020/11/0010.gif?x-oss-process=style/webp" alt="" width="640" height="264" /></p>
-<p style="text-align: center;">拖动图标可改变图标位置</p>
-<h3>三、任务栏图标动画</h3>
-<p>软件可从任务栏的倒三角调出，设置界面为英文，基本看得懂</p>
-<p><img loading="lazy" class="wp-image-2813 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/fal0011.png?x-oss-process=style/webp" alt="" width="569" height="617" /></p>
-<p style="text-align: center;">设置</p>
-<p>Center between Start, Search etc&#8230; and Tray：开始和右侧小图标间居中（仅原始任务栏有效）</p>
-<p>Animation (动画)：设置图标运动的样式</p>
-<p>Run at StartUp：开机自启动</p>
-<p>其实居中还可用以下的软件</p>
-<p><img loading="lazy" class="size-full wp-image-2814 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/v2-994c8ea5326cc5ee4f70d335dd1a6182_r.jpg?x-oss-process=style/webp" alt="" width="673" height="132" /></p>
-<p><a href="https://mp.weixin.qq.com/s/hBn0OTklKnLidjFqg4iFTA" target="_blank"  rel="nofollow" >&gt;&gt;Windows下的macOS UI</a></p>
-<p>新版TaskbarX</p>
-<p><a href="https://img.szfx.top/images/TaskbarXdemo.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/images/TaskbarXdemo.jpg" /></a></p>
-<p><a href="https://img.szfx.top/images/TaskbarX.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://img.szfx.top/images/TaskbarX.gif" /></a></p>
-<p>新版TaskbarX也是支持Windows 8/10/11的</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-4863" src="https://cdn.jishusongshu.com/images/2020/11/SP_20210808-221348.jpg?x-oss-process=style/webp" alt="" width="1920" height="1079" srcset="https://cdn.jishusongshu.com/images/2020/11/SP_20210808-221348.jpg?x-oss-process=style/webp 1920w, https://cdn.jishusongshu.com/images/2020/11/SP_20210808-221348-1536x863.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
-<h2>三、官网地址</h2>
-<p>TaskbarX官网：<a href="https://chrisandriessen.nl/taskbarx" target="_blank"  rel="nofollow" >https://chrisandriessen.nl/taskbarx</a></p>
-<p>GitHub地址：<a href="https://github.com/ChrisAnd1998/TaskbarX" target="_blank"  rel="nofollow" >https://github.com/ChrisAnd1998/TaskbarX</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31.QTranslate：电脑全局翻译神器]]></title>
-        <id>https://612901.github.io/post/31qtranslatedian-nao-quan-ju-fan-yi-shen-qi/</id>
-        <link href="https://612901.github.io/post/31qtranslatedian-nao-quan-ju-fan-yi-shen-qi/">
-        </link>
-        <updated>2022-08-05T03:02:18.000Z</updated>
-        <content type="html"><![CDATA[<p>使用电脑时遇到难懂的英文，大多数朋友的做法可能是：</p>
-<p>打开手机 / 电脑浏览器搜索，但这样的效率可能比较低。</p>
-<h2>一、前言</h2>
-<p>若是在浏览器里遇到，可用浏览器自带工具网站翻译为中文</p>
-<p>以 <a href="https://qtranslate.net/" target="_blank"  rel="nofollow" >https://qtranslate.net/</a> 为例</p>
-<p><span id="more-527"></span></p>
-<p><img loading="lazy" class="size-full wp-image-532 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/originp-1.png?x-oss-process=style/webp" alt="" width="880" height="503" srcset="https://cdn.jishusongshu.com/images/2020/02/originp-1.png?x-oss-process=style/webp 880w, https://cdn.jishusongshu.com/images/2020/02/originp-1-300x171.png 300w, https://cdn.jishusongshu.com/images/2020/02/originp-1-768x439.png 768w, https://cdn.jishusongshu.com/images/2020/02/originp-1-24x14.png 24w, https://cdn.jishusongshu.com/images/2020/02/originp-1-36x21.png 36w, https://cdn.jishusongshu.com/images/2020/02/originp-1-48x27.png 48w" sizes="(max-width: 880px) 100vw, 880px" /></p>
-<p style="text-align: center;">↓↓↓</p>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="chufk-0-0">
-<div data-offset-key="chufk-0-0"><img loading="lazy" class="size-full wp-image-533 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/trans.jpg?x-oss-process=style/webp" alt="" width="800" height="418"></div>
-<div data-offset-key="chufk-0-0">但是翻译耗时较长，有时翻译也不准确，还不如看英文原文</div>
-<div data-offset-key="chufk-0-0"></div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="chufk-0-0">
-<p>今天推荐的软件 QTranslate，根本上与上面的网站无关</p>
-<p>此 QTranslate，非彼 Q-Translate。QTranslate 软件开发商官网</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="e0a46-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="e0a46-0-0"><a href="http://quest-app.appspot.com/" target="_blank"  rel="nofollow" ><span data-offset-key="e0a46-0-0">http://quest-app.appspot.com/</span></a></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="h3um-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="h3um-0-0">
-<p>以生词 Quran 为例，我们一般会想到百度翻译</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="1oidl-0-0">
-<div data-offset-key="1oidl-0-0"><img loading="lazy" class="size-full wp-image-537 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/baidu.jpg?x-oss-process=style/webp" alt="" width="782" height="213" srcset="https://cdn.jishusongshu.com/images/2020/02/baidu.jpg?x-oss-process=style/webp 782w, https://cdn.jishusongshu.com/images/2020/02/baidu-300x82.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/baidu-768x209.jpg 768w, https://cdn.jishusongshu.com/images/2020/02/baidu-24x7.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/baidu-36x10.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/baidu-48x13.jpg 48w" sizes="(max-width: 782px) 100vw, 782px" /></div>
-<div data-offset-key="1oidl-0-0">
-<p>然后就是谷歌翻译：<a href="https://translate.google.cn/" target="_blank"  rel="nofollow" >https://translate.google.cn/</a></p>
-</div>
-<div data-offset-key="1oidl-0-0"><img loading="lazy" class="size-full wp-image-536 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/tra.jpg?x-oss-process=style/webp" alt="" width="600" height="249" srcset="https://cdn.jishusongshu.com/images/2020/02/tra.jpg?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/tra-300x125.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/tra-24x10.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/tra-36x15.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/tra-48x20.jpg 48w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="6iaov-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6iaov-0-0">
-<p><span data-offset-key="6iaov-0-0"><span data-offset-key="6iaov-0-0">若</span></span>安装了浏览器翻译插件比如说：Google 翻译</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="84u5i-0-0">
-<div data-offset-key="84u5i-0-0"><img loading="lazy" class="size-full wp-image-538 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/translate.jpg?x-oss-process=style/webp" alt="" width="600" height="192" srcset="https://cdn.jishusongshu.com/images/2020/02/translate.jpg?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/translate-300x96.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/translate-24x8.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/translate-36x12.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/translate-48x15.jpg 48w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="dafpn-0-0">
-<div data-offset-key="dafpn-0-0"></div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dafpn-0-0"><span data-offset-key="dafpn-0-0">可以更便捷翻译网站上的语句</span></div>
-<div data-offset-key="dafpn-0-0"></div>
-<div data-offset-key="dafpn-0-0"><img loading="lazy" class="size-full wp-image-539 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/trans.gif?x-oss-process=style/webp" alt="" width="630" height="291"></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="7gcek-0-0">
-<div data-offset-key="7gcek-0-0"></div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7gcek-0-0">
-<p>如果没有显示悬浮翻译按钮，比如：</p>
-<p>Microsoft Edge (Chromium) 就没有</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="5tf8a-0-0">
-<div data-offset-key="5tf8a-0-0"><img loading="lazy" class="size-full wp-image-541 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/123.png?x-oss-process=style/webp" alt="" width="600" height="178" srcset="https://cdn.jishusongshu.com/images/2020/02/123.png?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/123-300x89.png 300w, https://cdn.jishusongshu.com/images/2020/02/123-24x7.png 24w, https://cdn.jishusongshu.com/images/2020/02/123-36x11.png 36w, https://cdn.jishusongshu.com/images/2020/02/123-48x14.png 48w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-<div data-offset-key="5tf8a-0-0"></div>
-<div data-offset-key="5tf8a-0-0">但是如果离开了浏览器，浏览器插件就无法使用了，比如</div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5tf8a-0-0">
-<p>在 Word / PDF 等中遇到生词，这时 QTranslate 就派上用场了。</p>
-<h2>二、功能介绍</h2>
-<p>只需选中文字，Ctrl+Q，即可翻译文本显示窗口</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="7g6q4-0-0">
-<div data-offset-key="7g6q4-0-0"><img loading="lazy" class="size-full wp-image-543 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/sign.gif?x-oss-process=style/webp" alt="" width="920" height="556"></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="4t5iu-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4t5iu-0-0">
-<p>测试可调用 6 种翻译源</p>
-</div>
-<div data-offset-key="4t5iu-0-0"><img loading="lazy" class="size-full wp-image-544 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/66.jpg?x-oss-process=style/webp" alt="" width="800" height="425" srcset="https://cdn.jishusongshu.com/images/2020/02/66.jpg?x-oss-process=style/webp 800w, https://cdn.jishusongshu.com/images/2020/02/66-300x159.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/66-768x408.jpg 768w, https://cdn.jishusongshu.com/images/2020/02/66-24x13.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/66-36x19.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/66-48x26.jpg 48w" sizes="(max-width: 800px) 100vw, 800px" /></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="5mu0d-0-0">
-<div data-offset-key="5mu0d-0-0"></div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5mu0d-0-0"><span data-offset-key="5mu0d-0-0">要复制文本可点击右上工具</span></div>
-<div data-offset-key="5mu0d-0-0"></div>
-<div data-offset-key="5mu0d-0-0"><img loading="lazy" class="size-full wp-image-545 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/工具.png?x-oss-process=style/webp" alt="" width="847" height="174" srcset="https://cdn.jishusongshu.com/images/2020/02/工具.png?x-oss-process=style/webp 847w, https://cdn.jishusongshu.com/images/2020/02/工具-300x62.png 300w, https://cdn.jishusongshu.com/images/2020/02/工具-768x158.png 768w, https://cdn.jishusongshu.com/images/2020/02/工具-24x5.png 24w, https://cdn.jishusongshu.com/images/2020/02/工具-36x7.png 36w, https://cdn.jishusongshu.com/images/2020/02/工具-48x10.png 48w" sizes="(max-width: 847px) 100vw, 847px" /></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="60v1m-0-0">
-<div data-offset-key="60v1m-0-0">
-<p>还可添加到收藏夹、朗读选中文本</p>
-<p>替换选中文本（将译文替换掉原文）</p>
-<p>可以查看翻译的历史记录</p>
-</div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="fngeg-0-0">
-<div data-offset-key="fngeg-0-0"><img loading="lazy" class="size-full wp-image-546 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/history.png?x-oss-process=style/webp" alt="" width="500" height="262" srcset="https://cdn.jishusongshu.com/images/2020/02/history.png?x-oss-process=style/webp 500w, https://cdn.jishusongshu.com/images/2020/02/history-300x157.png 300w, https://cdn.jishusongshu.com/images/2020/02/history-24x13.png 24w, https://cdn.jishusongshu.com/images/2020/02/history-36x19.png 36w, https://cdn.jishusongshu.com/images/2020/02/history-48x25.png 48w" sizes="(max-width: 500px) 100vw, 500px" /></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="3m90c-0-0">
-<div data-offset-key="3m90c-0-0"></div>
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="3m90c-0-0"><span data-offset-key="3m90c-0-0">默认皮肤是这样的</span></div>
-<div data-offset-key="3m90c-0-0"></div>
-</div>
-<div class="Editable-unstyled" data-block="true" data-editor="7iume" data-offset-key="d41bn-0-0">
-<div data-offset-key="d41bn-0-0"><img loading="lazy" class="size-full wp-image-550 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/默认.png?x-oss-process=style/webp" alt="" width="600" height="303" srcset="https://cdn.jishusongshu.com/images/2020/02/默认.png?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/默认-300x152.png 300w, https://cdn.jishusongshu.com/images/2020/02/默认-24x12.png 24w, https://cdn.jishusongshu.com/images/2020/02/默认-36x18.png 36w, https://cdn.jishusongshu.com/images/2020/02/默认-48x24.png 48w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-<div data-offset-key="d41bn-0-0"></div>
-<div data-offset-key="d41bn-0-0">有些单调，可修改主题皮肤</div>
-<div data-offset-key="d41bn-0-0"></div>
-</div>
-<div data-offset-key="d41bn-0-0"><img loading="lazy" class="size-full wp-image-551 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/修改皮肤.jpg?x-oss-process=style/webp" alt="" width="600" height="343" srcset="https://cdn.jishusongshu.com/images/2020/02/修改皮肤.jpg?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/修改皮肤-300x172.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/修改皮肤-24x14.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/修改皮肤-36x21.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/修改皮肤-48x27.jpg 48w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-<div data-offset-key="d41bn-0-0">
-<p>截图识别翻译</p>
-<p><img loading="lazy" class="size-full wp-image-553 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/OCR.png?x-oss-process=style/webp" alt="" width="538" height="215" srcset="https://cdn.jishusongshu.com/images/2020/02/OCR.png?x-oss-process=style/webp 538w, https://cdn.jishusongshu.com/images/2020/02/OCR-300x120.png 300w, https://cdn.jishusongshu.com/images/2020/02/OCR-24x10.png 24w, https://cdn.jishusongshu.com/images/2020/02/OCR-36x14.png 36w, https://cdn.jishusongshu.com/images/2020/02/OCR-48x19.png 48w" sizes="(max-width: 538px) 100vw, 538px" /></p>
-<p><img loading="lazy" class="size-full wp-image-554 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/shot.gif?x-oss-process=style/webp" alt="" width="600" height="291"></p>
-<p>注：为截图识别设置快捷键</p>
-<p><img loading="lazy" class="size-full wp-image-555 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/设置文本识别.png?x-oss-process=style/webp" alt="" width="660" height="401" srcset="https://cdn.jishusongshu.com/images/2020/02/设置文本识别.png?x-oss-process=style/webp 660w, https://cdn.jishusongshu.com/images/2020/02/设置文本识别-300x182.png 300w, https://cdn.jishusongshu.com/images/2020/02/设置文本识别-24x15.png 24w, https://cdn.jishusongshu.com/images/2020/02/设置文本识别-36x22.png 36w, https://cdn.jishusongshu.com/images/2020/02/设置文本识别-48x29.png 48w" sizes="(max-width: 660px) 100vw, 660px" /></p>
-<p>目前最新版本为 v6.7.4</p>
-<p>笔者测试无法使用翻译</p>
-<p>还是用&nbsp;v6.7.1 比较方便</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35.alistskin:关于Alist阿里网盘的美化包下载讲解]]></title>
-        <id>https://612901.github.io/post/35/</id>
-        <link href="https://612901.github.io/post/35/">
-        </link>
-        <updated>2022-08-05T02:23:01.000Z</updated>
-        <content type="html"><![CDATA[<h2>前言</h2><p>最近，星环常常陆续的遇到前来找星环来要Alist程序的美化包。这个星环觉得是星环的荣幸，所以，讲一下如何下载对应的Alist程序美化包。</p><h2>介绍</h2><p><strong>alistSkin第一版</strong><br>alistSkin第一版的话对应的Alist程序的话，也是1.# 开头的版本，不支持2.#<br>美化后的样式是这样的：<br><img src="https://www.xhto.cn/usr/uploads/2022/03/4073196528.jpg" alt="alistSkin01.jpg" title="alistSkin01.jpg"></p><p><strong>alistSkin第二版</strong><br>alistSkin第二版的话对应的Alist程序的话，也是2.# 开头的版本，不支持1.#的。不过支持现在的版本<br>美化后的样式是这样的：<br><img src="https://www.xhto.cn/usr/uploads/2022/03/3217022341.jpg" alt="alistSkin02.jpg" title="alistSkin02.jpg"></p><h2>下载地址</h2><p>alistSkin01：<a href="https://pan.xhto.cn/d/CodeDown/alistSkin_1.1.zip">下载地址</a><br>alistSkin02：<a href="https://pan.xhto.cn/CodeDown/alistSkin_2.2.zip">下载地址</a></p><p><em>扩展代码包【源代码，可支持在基础上修改】</em><br>alistSkin02.1：<a href="https://pan.xhto.cn/CodeDown/alistSkin_2.1.zip">源码下载</a></p><h2>尾言</h2><p>如果只是想使用alistSkin美化的话，请使用【alistSkin02】下载，源码下载是没有美化的代码，给创作者准备的哟~</p>                <div class="post_wzts">]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30.小丸工具箱 + bilibili 压制工具]]></title>
-        <id>https://612901.github.io/post/30/</id>
-        <link href="https://612901.github.io/post/30/">
-        </link>
-        <updated>2022-08-05T02:20:31.000Z</updated>
-        <content type="html"><![CDATA[<p>推荐小丸工具箱和压制工具：音视频等多媒体文件处理软件，旨在让视频压制变得简单、轻松。</p>
-<h2>一、小丸工具箱</h2>
-<p><img loading="lazy" class="wp-image-687 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/100.png?x-oss-process=style/webp" alt="" width="100" height="100" srcset="https://cdn.jishusongshu.com/images/2020/02/100.png?x-oss-process=style/webp 100w, https://cdn.jishusongshu.com/images/2020/02/100-24x24.png 24w, https://cdn.jishusongshu.com/images/2020/02/100-36x36.png 36w, https://cdn.jishusongshu.com/images/2020/02/100-48x48.png 48w, https://cdn.jishusongshu.com/images/2020/02/100-45x45.png 45w" sizes="(max-width: 100px) 100vw, 100px" /></p>
-<p><img loading="lazy" class="wp-image-689 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/load-1.jpg?x-oss-process=style/webp" alt="" width="450" height="300" srcset="https://cdn.jishusongshu.com/images/2020/02/load-1.jpg?x-oss-process=style/webp 450w, https://cdn.jishusongshu.com/images/2020/02/load-1-300x200.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/load-1-24x16.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/load-1-36x24.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/load-1-48x32.jpg 48w" sizes="(max-width: 450px) 100vw, 450px" /></p>
-<p style="text-align: center;">主界面</p>
-<p>logo和启动画面有点像Adobe系列</p>
-<blockquote>
-<section>软件主要功能：</section>
-<section>高质量的H264+AAC视频压制</section>
-<section>ASS/SRT字幕内嵌到视频</section>
-<section>AAC/WAV/FLAC/ALAC音频转换</section>
-<section>MP4/MKV/FLV的无损抽取和封装</section>
-</blockquote>
-<p><span id="more-684"></span></p>
-<section>搬运一下公众号【小众软件】的介绍视频</section>
-<section><a href="https://v.qq.com/x/page/f0197na7r2i.html" target="blank" rel="noopener noreferrer" target="_blank"  rel="nofollow" >https://v.qq.com/x/page/f0197na7r2i.html</a></section>
-<p><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=f0197na7r2i" allowfullscreen="true" style="width: 100%;height:700px"></iframe></p>
-<section>主界面如下，需要可自行探索</section>
-<section><img loading="lazy" class="wp-image-693 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/420.jpg?x-oss-process=style/webp" alt="" width="420" height="461" srcset="https://cdn.jishusongshu.com/images/2020/02/420.jpg?x-oss-process=style/webp 420w, https://cdn.jishusongshu.com/images/2020/02/420-273x300.jpg 273w, https://cdn.jishusongshu.com/images/2020/02/420-22x24.jpg 22w, https://cdn.jishusongshu.com/images/2020/02/420-33x36.jpg 33w, https://cdn.jishusongshu.com/images/2020/02/420-44x48.jpg 44w" sizes="(max-width: 420px) 100vw, 420px" /></section>
-<section>官方提供的使用教程（若播放不出就看文字）：</section>
-<section><a href="https://maruko.appinn.me/tutorial.html" target="_blank"  rel="nofollow" >https://maruko.appinn.me/tutorial.html</a></section>
-<section></section>
-<section><img loading="lazy" class="wp-image-691 size-full" src="https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41.png?x-oss-process=style/webp" alt="" width="500" height="286" srcset="https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41.png?x-oss-process=style/webp 500w, https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41-300x172.png 300w, https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41-24x14.png 24w, https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41-36x21.png 36w, https://cdn.jishusongshu.com/images/2020/02/SP_2020-0220_22-59-41-48x27.png 48w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p style="text-align: center;">教程</p>
-<p>部分浏览器禁用flash，如何启用↓<a href="https://mp.weixin.qq.com/s/aM8kmWbqIKBP934zIgqxUQ" target="_blank" rel="noopener noreferrer" data-itemshowtype="0" data-linktype="2" rel="nofollow" >曾经的霸主，即将消逝的Flash</a></p>
-<h2>二、哔哩哔哩压制工具</h2>
-<p><a class="aligncenter" href="https://img.szfx.top/img/2021/SP_20210805-220106.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://img.szfx.top/img/2021/SP_20210805-220106.jpg"></a></p>
-<p>B站粉丝自己探索使用吧~</p>
-<p><img loading="lazy" class="wp-image-695 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/b.jpg?x-oss-process=style/webp" alt="" width="520" height="259" srcset="https://cdn.jishusongshu.com/images/2020/02/b.jpg?x-oss-process=style/webp 520w, https://cdn.jishusongshu.com/images/2020/02/b-300x149.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/b-24x12.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/b-36x18.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/b-48x24.jpg 48w" sizes="(max-width: 520px) 100vw, 520px" /></p>
-<h2>三、官网与帮助</h2>
-<p>小丸工具箱官网<br />
-<a href="https://maruko.appinn.me/" target="_blank"  rel="nofollow" >https://maruko.appinn.me/</a></p>
-<p>软件使用帮助<br />
-<a href="https://www.kancloud.cn/lanlulululu/marukotoolbox_faq" target="_blank"  rel="nofollow" >https://www.kancloud.cn/lanlulululu/marukotoolbox_faq</a><br />
-<a loading="lazy" class="size-full wp-image-695 aligncenter" href="https://i.loli.net/2020/08/31/fDpAFt29JcorWj7.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img loading="lazy" class="size-full wp-image-695 aligncenter" src="https://i.loli.net/2020/08/31/fDpAFt29JcorWj7.jpg" alt="" width="703" height="398"></a></p>
-<h2>四、资源下载</h2>
-<p><img loading="lazy" class="wp-image-696 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/小丸工具箱.jpg?x-oss-process=style/webp" alt="" width="500" height="184" srcset="https://cdn.jishusongshu.com/images/2020/02/小丸工具箱.jpg?x-oss-process=style/webp 500w, https://cdn.jishusongshu.com/images/2020/02/小丸工具箱-300x110.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/小丸工具箱-24x9.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/小丸工具箱-36x13.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/小丸工具箱-48x18.jpg 48w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p>官网有很大部分部分资源失效，那么可以到本站公众号获取。<br />
-支持Windows XP/7/8/10 / macOS，附视频解码压制工具。</p>
-<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
-			<div class="down-detail"><br>
-				<font color=#000 class="down-price">文件名称：<span>小丸工具箱等</span></font><br>
-				<font color=#000 class="down-price">适用版本：Windows / macOS</font><br>
-				<font color=#000  class="down-ordinary">更新日期：未知</font><br>
-		    	<font color=#000  class="down-vip">文件大小：约200M</font><br>
-			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="小丸工具箱等" href="https://www.jishusongshu.com/download.php?id=684"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>		]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29.酷炫 Windows 鼠标指针！]]></title>
-        <id>https://612901.github.io/post/29/</id>
-        <link href="https://612901.github.io/post/29/">
-        </link>
-        <updated>2022-08-05T02:20:22.000Z</updated>
-        <content type="html"><![CDATA[<p>千篇一律的鼠标指针看着单调，</p>
-<p>不妨修改 Windows 鼠标指针。</p>
-<p>看着舒心，工作也更愉快！</p>
-<p>精选几组精美指针分享给大家，</p>
-<p>以下大部分资源来自致美化</p>
-<p><a href="https://zhutix.com/tag/cursors/" target="_blank"  rel="nofollow" >https://zhutix.com/tag/cursors/</a></p>
-<p><span id="more-617"></span></p>
-<h2>1、JOMMANS Falchion</h2>
-<p><img loading="lazy" class="size-full wp-image-624 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/12-1.jpg?x-oss-process=style/webp" alt="" width="400" height="519" srcset="https://cdn.jishusongshu.com/images/2020/02/12-1.jpg?x-oss-process=style/webp 400w, https://cdn.jishusongshu.com/images/2020/02/12-1-231x300.jpg 231w, https://cdn.jishusongshu.com/images/2020/02/12-1-18x24.jpg 18w, https://cdn.jishusongshu.com/images/2020/02/12-1-28x36.jpg 28w, https://cdn.jishusongshu.com/images/2020/02/12-1-37x48.jpg 37w" sizes="(max-width: 400px) 100vw, 400px" /></p>
-<p style="text-align: center;">by JOMMANS</p>
-<h2>2、Deepin 2</h2>
-<p>这是模仿 Deepin 操作系统的鼠标指针</p>
-<p><img loading="lazy" class="size-full wp-image-625 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/2.jpg?x-oss-process=style/webp" alt="" width="600" height="315" srcset="https://cdn.jishusongshu.com/images/2020/02/2.jpg?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/02/2-300x158.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/2-24x13.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/2-36x19.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/2-48x25.jpg 48w" sizes="(max-width: 600px) 100vw, 600px" /></p>
-<p style="text-align: center;">by alexgal23</p>
-<p>Deepin 是国产 Linux 桌面操作系统，想看究竟？</p>
-<p><a href="https://zhuanlan.zhihu.com/p/74741465" target="_blank"  rel="nofollow" >https://zhuanlan.zhihu.com/p/74741465</a></p>
-<h2>3、Bibata Curspack</h2>
-<p><img loading="lazy" class="size-full wp-image-627 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/3.jpg?x-oss-process=style/webp" alt="" width="500" height="304" srcset="https://cdn.jishusongshu.com/images/2020/02/3.jpg?x-oss-process=style/webp 500w, https://cdn.jishusongshu.com/images/2020/02/3-300x182.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/3-24x15.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/3-36x22.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/3-48x29.jpg 48w" sizes="(max-width: 500px) 100vw, 500px" /></p>
-<p style="text-align: center;">by alexgal23</p>
-<h2>4、初音未来</h2>
-<figure data-size="normal"><img loading="lazy" class="alignnone size-full wp-image-1082" title="v2-76ff07612630ae67af619bb2ab770096_720w" src="https://cdn.jishusongshu.com/images/2020/03/v2-76ff07612630ae67af619bb2ab770096_720w.jpg?x-oss-process=style/webp" alt="v2-76ff07612630ae67af619bb2ab770096_720w" width="600" height="375" srcset="https://cdn.jishusongshu.com/images/2020/03/v2-76ff07612630ae67af619bb2ab770096_720w.jpg?x-oss-process=style/webp 600w, https://cdn.jishusongshu.com/images/2020/03/v2-76ff07612630ae67af619bb2ab770096_720w-300x188.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
-<p style="text-align: center;">指针有旋转动态效果</p>
-<h2>5、Mario Gant</h2>
-<figure data-size="normal">
-<div class="RichText-gifPlaceholder">
-<div class="GifPlayer isPlaying" data-size="normal" data-za-detail-view-path-module="GifItem"><img loading="lazy" class="size-full wp-image-1083 aligncenter" title="v2-aa4682282af30d8d86d74e42077a1d50_b" src="https://cdn.jishusongshu.com/images/2020/03/v2-aa4682282af30d8d86d74e42077a1d50_b.webp?x-oss-process=style/webp" alt="v2-aa4682282af30d8d86d74e42077a1d50_b" width="374" height="324"></div>
-</div>
-</figure>
-<p style="text-align: center;">马里奥鼠标指针</p>
-<h2>6、EasyCursor</h2>
-<figure data-size="normal"><img loading="lazy" class="size-full wp-image-1084 aligncenter" title="v2-10fca0c46f3c41db1fec2b1041fe57f9_720w" src="https://cdn.jishusongshu.com/images/2020/03/v2-10fca0c46f3c41db1fec2b1041fe57f9_720w.jpg?x-oss-process=style/webp" alt="v2-10fca0c46f3c41db1fec2b1041fe57f9_720w" width="720" height="720" srcset="https://cdn.jishusongshu.com/images/2020/03/v2-10fca0c46f3c41db1fec2b1041fe57f9_720w.jpg?x-oss-process=style/webp 720w, https://cdn.jishusongshu.com/images/2020/03/v2-10fca0c46f3c41db1fec2b1041fe57f9_720w-300x300.jpg 300w, https://cdn.jishusongshu.com/images/2020/03/v2-10fca0c46f3c41db1fec2b1041fe57f9_720w-150x150.jpg 150w, https://cdn.jishusongshu.com/images/2020/03/v2-10fca0c46f3c41db1fec2b1041fe57f9_720w-45x45.jpg 45w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
-<p style="text-align: center;">by Kurzik55</p>
-<h2>7、Leaf Cursors</h2>
-<p><img loading="lazy" class="size-full wp-image-629 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/4-1.jpg?x-oss-process=style/webp" alt="" width="400" height="228" srcset="https://cdn.jishusongshu.com/images/2020/02/4-1.jpg?x-oss-process=style/webp 400w, https://cdn.jishusongshu.com/images/2020/02/4-1-300x171.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/4-1-24x14.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/4-1-36x21.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/4-1-48x27.jpg 48w" sizes="(max-width: 400px) 100vw, 400px" /></p>
-<p style="text-align: center;">by alexgal23</p>
-<h2>8、Droid Cursor Scheme</h2>
-<p><img loading="lazy" class="size-full wp-image-630 aligncenter" src="https://cdn.jishusongshu.com/images/2020/02/5.jpg?x-oss-process=style/webp" alt="" width="400" height="225" srcset="https://cdn.jishusongshu.com/images/2020/02/5.jpg?x-oss-process=style/webp 400w, https://cdn.jishusongshu.com/images/2020/02/5-300x169.jpg 300w, https://cdn.jishusongshu.com/images/2020/02/5-24x14.jpg 24w, https://cdn.jishusongshu.com/images/2020/02/5-36x20.jpg 36w, https://cdn.jishusongshu.com/images/2020/02/5-48x27.jpg 48w" sizes="(max-width: 400px) 100vw, 400px" /></p>
-<p style="text-align: center;">by davidwroxy</p>
-<hr>
-<br />
-			<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附<br>件<br>下<br>载</div>
-			<div class="down-detail"><br>
-				<font color=#000 class="down-price">文件名称：<span>Windows 鼠标指针</span></font><br>
-				<font color=#000 class="down-price">适用版本：Windows 7/8/8.1/10</font><br>
-				<font color=#000  class="down-ordinary">更新日期：2022-07-09</font><br>
-		    	<font color=#000  class="down-vip">文件大小：1.2 M</font><br>
-			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="Windows 鼠标指针" href="https://www.jishusongshu.com/download.php?id=617"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>			]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28.效率神器：QuickLook]]></title>
-        <id>https://612901.github.io/post/28xiao-lu-shen-qi-quicklook/</id>
-        <link href="https://612901.github.io/post/28xiao-lu-shen-qi-quicklook/">
-        </link>
-        <updated>2022-08-05T01:25:18.000Z</updated>
-        <content type="html"><![CDATA[<p>QuickLook：像 macOS 通过空格键</p>
-<p>快速查看文件内容。</p>
-<p>可以快速查看文件夹信息；</p>
-<p>快速预览图片、音视频、压缩文件；</p>
-<p>甚至是文档、表格、演示文稿文件</p>
-<p>或是 PDF 文件<span id="more-264"></span></p>
-<h2>一、功能举例</h2>
-<h3>（1）文件夹</h3>
-<p>可以查看最后修改的时间</p>
-<p>以及包含文件数和大小等</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659662883287.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659662883287.gif" /></a></p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659662923129.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659662923129.png" /></a></p>
-<h3>（2）图片</h3>
-<p>可以打开 jpg、png、gif、webp、</p>
-<p>bmp、psd、camera raw 等格式的图片</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659663977325.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659663977325.gif" /></a></p>
-<h3>（3）音视频</h3>
-<p>可以快速播放 mp3、ogg、acc 等音频文件</p>
-<p>mp4、mov、avi 等视频文件</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664060205.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664060205.gif" /></a></p>
-<h3><b>（4）压缩文件</b></h3>
-<p>可以快速查看 zip、rar、7z 等压缩文件</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664118232.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664118232.gif" /></a></p>
-<h3><b>（5）文字表格演示</b></h3>
-<h4>1）docx文件预览</h4>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664155803.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664155803.gif" /></a></p>
-<h4>2）xlsx文件预览</h4>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664220554.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664220554.gif" /></a></p>
-<h4 style="text-align: left;">3）pptx文件预览</h4>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664271605.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659664271605.gif" /></a></p>
-<h4 style="text-align: left;">4）文本文档预览</h4>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665639746.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665639746.gif" /></a></p>
-<h2>二、扩展插件</h2>
-<h3>（1）下载方式</h3>
-<p>右键 QuickLook 的任务栏图标，</p>
-<p>点击 “<b>获取新插件</b>” 即可转网页：</p>
-<p><a href="https://github.com/QL-Win/QuickLook/wiki/Available-Plugins" target="_blank"  rel="nofollow" >https://github.com/QL-Win/QuickLook/wiki/Available-Plugins</a></p>
-<p><img loading="lazy" class="alignnone wp-image-3107 size-full" title="Cq7shAvw2gHPnIK" src="https://cdn.jishusongshu.com/images/2020/01/SP_2020-12-17_19-27-37.jpg?x-oss-process=style/webp" alt="" width="837" height="584" /></p>
-<h3>（2）安装方法</h3>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665806490.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://img.szfx.top/images/WxflDFyj5mA4haL.jpg" /></a></p>
-<p>举例：选中插件，按下空格键</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665836108.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665836108.jpg" /></a></p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665857600.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665857600.jpg" /></a></p>
-<p>如果遇到没有安装提示，如下所示</p>
-<p><a class="aligncenter" href="ile://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665872428.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="ile://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665872428.jpg" /></a></p>
-<p>可以重启一下电脑，再试一次</p>
-<p>安装插件后的英文提示：</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665880811.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665880811.jpg" /></a></p>
-<p>大意是重启软件以奏效。</p>
-<p>故需任务栏右键图标 &#8211; 退出，后重启软件。</p>
-<p>桌面没有软件启动快捷方式的朋友，</p>
-<p>在搜索栏搜索 QuickLook，启动即可。</p>
-<p>本人用 Win 8 与 Win 10 1809 亲测有效。</p>
-<p>Win 7 的朋友可以尝试一下，应该也可以。</p>
-<h2>三、软件下载</h2>
-<h3>（1）<b> GitHub</b> 源项目</h3>
-<p><a href="https://github.com/QL-Win/QuickLook" target="_blank"  rel="nofollow" >https://github.com/QL-Win/QuickLook</a></p>
-<h3><b>（2）Win 10 商店</b></h3>
-<p>Win 10 商店可搜索下载(无扩展插件)</p>
-<p><a class="aligncenter" href="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665891934.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659665891934.png" /></a></p>
-<p><a href="https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s" target="_blank"  rel="nofollow" >https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s</a></p>]]></content>
     </entry>
 </feed>
