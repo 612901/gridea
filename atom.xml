@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-08-06T11:24:38.506Z</updated>
+    <updated>2022-08-07T05:56:48.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[51.sharelist(cooiuc制作):一款优秀的网盘挂载工具]]></title>
+        <id>https://612901.github.io/post/51sharelist/</id>
+        <link href="https://612901.github.io/post/51sharelist/">
+        </link>
+        <updated>2022-08-07T00:26:50.000Z</updated>
+        <content type="html"><![CDATA[<h2>1.简介</h2><p>AList是一款阿里云盘的目录文件列表程序</p>
+<h2>2.安装</h2>
+(1)下载这个文件(按照你的系统来下载)
+<div class='page-content grid erar'><div class='img_wrapper flex erpd ebdg'><img src=file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659845199963.png></div>
+(2)打开下载的sharelist
+<div class='page-content grid erar'><div class='img_wrapper flex erpd ebdg'><img src=file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659845378813.png></div>
+(3)可以看到命令提示符的里的     App is running at <a class='anchor' target='_blank' href=' http://192.168.0.104:33001/'>http://192.168.0.104:33001/ 这个就是你的sharelist地址
+<div class='page-content grid erar'><div class='img_wrapper flex erpd ebdg'><img src=file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659845582430.png></div>
+(4)打开后可以进入初始化界面
+口令:自己设
+网站标题:自己设
+虚拟路径:自己设
+<div class='page-content grid erar'><div class='img_wrapper flex erpd ebdg'><img src=file://D:/360MoveData/Users/6666/OneDrive/文档/Gridea/post-images/1659851511999.png></div>
+<h2>3.下载</h2>
+<div class="paydown" id="paydown" style="margin-top:-25px" ><div class="down-title"><br>附件下载</div>
+			<div class="down-detail"><br>
+				<font color=#000 class="down-price">文件名称：<span>sharelist</span></font><br>
+				<font color=#000 class="down-price">适用版本：Windows 7/8/10/11</font><br>
+				<font color=#000  class="down-ordinary">更新日期：未知</font><br>
+		    	<font color=#000  class="down-vip">文件大小：61.74</font><br>
+			<p class="down-tip" style="margin-top:-10px"><font color=#F80007>提</font><font color=#F1000E>示</font><font color=#EA0015>：</font><font color=#DC0023>遇</font><font color=#D5002A>问</font><font color=#CE0031>题</font><font color=#C70038>或</font><font color=#B90046>链</font><font color=#B2004D>接</font><font color=#AB0054>失</font><font color=#A4005B>效</font><font color=#9D0062>请</font><font color=#960069>联</font><font color=#8F0070>系</font><font color=#880077>站</font><font color=#81007E>长</font><font color=#7A0085>，</font><font color=#73008C>本</font><font color=#6C0093>站</font><font color=#65009A>欢</font><font color=#5E00A1>迎</font><font color=#5700A8>捐</font><font color=#5000AF>赠</font><font color=#4900B6>！</font></p><p class="down-tip downbutton"><strong><a class="downbtn" style="border-radius:15px; " rel="external nofollow" title="小丸工具箱等" href="https://media.cooluc.com/source/sharelist/sharelist_windows_amd64.exe"  target="_blank">点击下载</a></strong> <br></p></div><div class="clear"></div></div>		
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50.gridea(下):快速上手]]></title>
         <id>https://612901.github.io/post/50grideaxia-kuai-su-shang-shou/</id>
@@ -261,40 +290,5 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
 <p>会员也不贵￥2/月，￥20/年，￥99/永久</p>
 <p>&gt;&gt;<a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" >数码荔枝正版软件商城</a></p>
 <p><a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" ><a loading="lazy" class="alignnone" href="https://img.szfx.top/images/BitDock_qrcode.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img loading="lazy" class="alignnone" src="https://img.szfx.top/images/BitDock_qrcode.jpg" alt="" width="1000" height="416" /></a></a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[41.电脑聊天娱乐变声器]]></title>
-        <id>https://612901.github.io/post/41dian-nao-liao-tian-yu-le-bian-sheng-qi/</id>
-        <link href="https://612901.github.io/post/41dian-nao-liao-tian-yu-le-bian-sheng-qi/">
-        </link>
-        <updated>2022-08-05T09:47:55.000Z</updated>
-        <content type="html"><![CDATA[<p>推荐一款电脑变声软件：：MorphVOX Pro。这款软件挺有趣的，可以在打游戏、聊天等情境中，实现实时输出变声，从而保护隐私。<br />
-但也有用此类软件坑蒙拐骗的，PS：若陌生人与你语音聊天，而且是很萌很娇的女声，那你要小心了，说不定他就是使用变声软件的抠脚骗子。</p>
-<p>好啦，下面介绍一下这款软件吧！</p>
-<h2>一、软件介绍</h2>
-<p>软件中国区代理网站描述：</p>
-<blockquote><p>MorphVOX Pro 变音器具有高质量变音、多重背景音效、多平台适配等特点，将在网络游戏和即时通讯中给予用户强大支持。MorphVOX Pro 变音器能够直接将语音录制成文件，或将音频文件进行变音。使用该工具，达到文件变音效果，或帮助配音员创建多种语音角色，节省时间和金钱。</p></blockquote>
-<p>软件下载之后，按说明文档一步步安装即可</p>
-<h2>二、软件配置</h2>
-<p>安装完成后需要配置一下：右键音量—录音设备</p>
-<p style="text-align: left;"><img loading="lazy" class="wp-image-2465 size-full aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqpz.jpg?x-oss-process=style/webp" alt="" width="238" height="147" /></p>
-<p style="text-align: left;">把Screaming Bee Audio设置为默认设备（不需要变声时再改回）<br />
-<img loading="lazy" class="size-full wp-image-2466 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqsysz.jpg?x-oss-process=style/webp" alt="" width="479" height="588" srcset="https://cdn.jishusongshu.com/images/2020/11/bsqsysz.jpg?x-oss-process=style/webp 479w, https://cdn.jishusongshu.com/images/2020/11/bsqsysz-60x75.jpg 60w" sizes="(max-width: 479px) 100vw, 479px" /></p>
-<p>打开的主界面</p>
-<p><img loading="lazy" class="size-full wp-image-2467 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqzjm.jpg?x-oss-process=style/webp" alt="" width="912" height="677" /></p>
-<p>主要从下面的两个面板调节音质</p>
-<p><img loading="lazy" class="size-full wp-image-2468 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/bsqyyxg.jpg?x-oss-process=style/webp" alt="" width="245" height="313" /></p>
-<p>右下语音效果可直接选预设，建议使用耳麦等外设。</p>
-<p>使用带麦耳机效果还可以，若电脑自带的，啸叫会很明显。</p>
-<p>科普一下啸叫产生的条件：</p>
-<blockquote><p>1) 话筒与音箱同时使用。2) 音响系统重放的声音能够通过空间传到话筒。3) 音箱发出的声音能量足够大，话筒的拾音灵敏度足够高。</p></blockquote>
-<p>举实例：TIM使用变声器配置</p>
-<p>打开设置—音视频通话—麦克风</p>
-<p>选择Screaming Bee Audio确定即可</p>
-<p><img loading="lazy" class="size-full wp-image-2469 aligncenter" src="https://cdn.jishusongshu.com/images/2020/11/timbsqsz.jpg?x-oss-process=style/webp" alt="" width="700" height="508" /></p>
-<p>之后像平时通话聊天使用耳麦即可</p>
-<h2>三、官网地址</h2>
-<p>MORPHVOX官网</p>
-<p><a href="https://screamingbee.com/product/MorphVOX.aspx" target="_blank"  rel="nofollow" >https://screamingbee.com/product/MorphVOX.aspx</a></p>]]></content>
     </entry>
 </feed>
