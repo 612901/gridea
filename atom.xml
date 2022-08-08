@@ -2,14 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://612901.github.io</id>
     <title>无影博客</title>
-    <updated>2022-08-07T07:03:54.003Z</updated>
+    <updated>2022-08-08T09:23:51.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://612901.github.io"/>
     <link rel="self" href="https://612901.github.io/atom.xml"/>
-    <subtitle>不理白驹过隙，不信生死有命！</subtitle>
+    <subtitle>Hi, 我是无影，来自南部的一个小城市，个性不张扬，讨厌随波逐流.</subtitle>
     <logo>https://612901.github.io/images/avatar.png</logo>
     <icon>https://612901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[无赖哥哥(41-45)]]></title>
+        <id>https://612901.github.io/post/wu-lai-ge-ge-41-45/</id>
+        <link href="https://612901.github.io/post/wu-lai-ge-ge-41-45/">
+        </link>
+        <updated>2022-08-08T03:10:52.000Z</updated>
+        <content type="html"><![CDATA[<iframe  
+ height=850 
+ width=90% 
+ src=""  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+ <iframe  
+ height=850 
+ width=90% 
+ src=""  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+ <iframe  
+ height=850 
+ width=90% 
+ src=""  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+ <iframe  
+ height=850 
+ width=90% 
+ src=""  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+ <iframe  
+ height=850 
+ width=90% 
+ src=""  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[51.sharelist(cooiuc制作):一款优秀的网盘挂载工具]]></title>
         <id>https://612901.github.io/post/51sharelist/</id>
@@ -245,49 +288,5 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
 <p><img loading="lazy" class="size-full wp-image-4141 aligncenter" src="https://cdn.jishusongshu.com/images/2021/04/20210109155826.jpg?x-oss-process=style/webp" alt="" width="1080" height="1080" srcset="https://cdn.jishusongshu.com/images/2021/04/20210109155826.jpg?x-oss-process=style/webp 1080w, https://cdn.jishusongshu.com/images/2021/04/20210109155826-45x45.jpg 45w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
 <h2>三、下载地址</h2>
 <p>Github地址：<a href="https://github.com/Hunlongyu/ZY-Player/" target="_blank"  rel="nofollow" >https://github.com/Hunlongyu/ZY-Player/</a></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42.BitDock-Mac风格启动栏+桌面工具]]></title>
-        <id>https://612901.github.io/post/42bitdock-mac-feng-ge-qi-dong-lan-zhuo-mian-gong-ju/</id>
-        <link href="https://612901.github.io/post/42bitdock-mac-feng-ge-qi-dong-lan-zhuo-mian-gong-ju/">
-        </link>
-        <updated>2022-08-05T09:55:55.000Z</updated>
-        <content type="html"><![CDATA[<p>BitDock是一款运行在Windows系统中的停靠栏工具，这种停靠栏很有个性，而且很适用。它让你在使用Windows更加的动感，而且还支持使用拖曳的方式来自定义要启动的程序，或是资料夹，内置了多款实用工具，让你自己轻松打造一个动感味十足，界面漂亮，占用极少资源的个人专属快捷工具栏。</section></p>
-</blockquote>
-<p title="BitDock设置详解">整体概览</p>
-<p title="BitDock设置详解"><a href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/e48ca6cbf08c1d14.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/e48ca6cbf08c1d14.jpg" /></a></p>
-<p>类似的软件还有MyDockFinder：<a href="https://mp.weixin.qq.com/s/hBn0OTklKnLidjFqg4iFTA" target="_blank" rel="noopener" data-linktype="2" rel="nofollow" >Windows下的macOS UI</a></p>
-<p><a class="aligncenter" href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/44bb6656a64c1861.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/44bb6656a64c1861.gif" /></a></p>
-<p>区别：MyDockFinder是完全免费的软件，BitDock是已经开始尝试商业化。MyDockFinder最新版对Windows 7/8的兼容性不太好，BitDock兼容Windows 7/8。</p>
-<p>如果追求极简的体验：<strong><a href="https://mp.weixin.qq.com/s/hBn0OTklKnLidjFqg4iFTA" target="_blank"  rel="nofollow" >软媒桌面（mydesk）</a></strong>不错</p>
-<p><strong>二、详细介绍</strong></p>
-<p>第一个是资源管理器，第二个是LaunchPad</p>
-<p>LaunchPad左边可以调整显示样式</p>
-<p><a class="aligncenter" href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/d9f05fd5b8ac15d8.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/d9f05fd5b8ac15d8.jpg" /></a></p>
-<p title="BitDock设置详解">任务栏图标</p>
-<p title="BitDock设置详解"><a class="aligncenter" href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/a4f3eda820009413.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/a4f3eda820009413.jpg" /></a></p>
-<p title="BitDock设置详解">关机选项</p>
-<p title="BitDock设置详解"><a href=" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="" /></a></p>
-<p>dock栏右键菜单</p>
-<p><a class="aligncenter" href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/fd75a854999f7d83.png" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/fd75a854999f7d83.png" /></a></p>
-<p>桌面工具</p>
-<p>右键任务栏图标-桌面工具</p>
-<p title="BitDock设置详解"><a href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/0a61ea478b98859d.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/0a61ea478b98859d.jpg" /></a></p>
-<p><a href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/98e007690629c360.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/98e007690629c360.jpg" /></a></p>
-<h2>三、软件设置</h2>
-<p>软件设置挺丰富的</p>
-<p><a class="aligncenter" href="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/44bb6656a64c1861.gif" data-fancybox="images" target="_blank"  rel="nofollow" ><img class="aligncenter" src="https://lateextraneousinversion.661111.repl.co/imgs/2022/08/44bb6656a64c1861.gif" /></a></p>
-<p class="video-title" title="BitDock设置详解"><span class="tit">BitDock设置详解</span></p>
-<div class="smartideo">
-<div class="player">
-                    <iframe loading="lazy" src="//player.bilibili.com/player.html?bvid=BV1eE411A7ht&#038;cid=&#038;page=1" width="100%" height="100%" frameborder="0" allowfullscreen="true"></iframe>
-                </div>
-</div>
-<p>更多软件介绍：<a href="https://mp.weixin.qq.com/s/YCobv5Gu8QT3shg1fMp5XA" target="_blank"  rel="nofollow" >BitDock | Mac风格启动栏+桌面工具</a></p>
-<h2>四、软件下载</h2>
-<p>官网地址：<a href="http://www.bitdesk.cn/" target="_blank"  rel="nofollow" >http://www.bitdesk.cn/</a></p>
-<p>会员也不贵￥2/月，￥20/年，￥99/永久</p>
-<p>&gt;&gt;<a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" >数码荔枝正版软件商城</a></p>
-<p><a href="https://store.lizhi.io/site/products/id/411?cid=af68zzhr" target="_blank"  rel="nofollow" ><a loading="lazy" class="alignnone" href="https://img.szfx.top/images/BitDock_qrcode.jpg" data-fancybox="images" target="_blank"  rel="nofollow" ><img loading="lazy" class="alignnone" src="https://img.szfx.top/images/BitDock_qrcode.jpg" alt="" width="1000" height="416" /></a></a></p>]]></content>
     </entry>
 </feed>
