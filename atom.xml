@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://612901.github.io</id>
+    <id>https://612901.github.io/gridea</id>
     <title>无影博客</title>
-    <updated>2022-08-08T10:12:31.599Z</updated>
+    <updated>2022-08-08T10:16:20.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://612901.github.io"/>
-    <link rel="self" href="https://612901.github.io/atom.xml"/>
+    <link rel="alternate" href="https://612901.github.io/gridea"/>
+    <link rel="self" href="https://612901.github.io/gridea/atom.xml"/>
     <subtitle>Hi, 我是无影，来自南部的一个小城市，个性不张扬，讨厌随波逐流.</subtitle>
-    <logo>https://612901.github.io/images/avatar.png</logo>
-    <icon>https://612901.github.io/favicon.ico</icon>
+    <logo>https://612901.github.io/gridea/images/avatar.png</logo>
+    <icon>https://612901.github.io/gridea/favicon.ico</icon>
     <rights>All rights reserved 2022, 无影博客</rights>
     <entry>
         <title type="html"><![CDATA[无赖哥哥(41-45)]]></title>
-        <id>https://612901.github.io/post/wu-lai-ge-ge-41-45/</id>
-        <link href="https://612901.github.io/post/wu-lai-ge-ge-41-45/">
+        <id>https://612901.github.io/gridea/post/wu-lai-ge-ge-41-45/</id>
+        <link href="https://612901.github.io/gridea/post/wu-lai-ge-ge-41-45/">
         </link>
         <updated>2022-08-08T03:10:52.000Z</updated>
         <content type="html"><![CDATA[<iframe  
@@ -55,8 +55,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[51.sharelist(cooiuc制作):一款优秀的网盘挂载工具]]></title>
-        <id>https://612901.github.io/post/51sharelist/</id>
-        <link href="https://612901.github.io/post/51sharelist/">
+        <id>https://612901.github.io/gridea/post/51sharelist/</id>
+        <link href="https://612901.github.io/gridea/post/51sharelist/">
         </link>
         <updated>2022-08-07T00:26:50.000Z</updated>
         <content type="html"><![CDATA[<h2>1.简介</h2><p>AList是一款阿里云盘的目录文件列表程序</p>
@@ -84,8 +84,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[50.gridea(下):快速上手]]></title>
-        <id>https://612901.github.io/post/50grideaxia-kuai-su-shang-shou/</id>
-        <link href="https://612901.github.io/post/50grideaxia-kuai-su-shang-shou/">
+        <id>https://612901.github.io/gridea/post/50grideaxia-kuai-su-shang-shou/</id>
+        <link href="https://612901.github.io/gridea/post/50grideaxia-kuai-su-shang-shou/">
         </link>
         <updated>2022-08-06T11:12:46.000Z</updated>
         <content type="html"><![CDATA[<p>你好，欢迎开始愉快的 Gridea 之旅呀～</p>
@@ -121,8 +121,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[49.gridea(上):一个静态博客写作客户端]]></title>
-        <id>https://612901.github.io/post/49grideashang-yi-ge-jing-tai-bo-ke-xie-zuo-ke-hu-duan/</id>
-        <link href="https://612901.github.io/post/49grideashang-yi-ge-jing-tai-bo-ke-xie-zuo-ke-hu-duan/">
+        <id>https://612901.github.io/gridea/post/49grideashang-yi-ge-jing-tai-bo-ke-xie-zuo-ke-hu-duan/</id>
+        <link href="https://612901.github.io/gridea/post/49grideashang-yi-ge-jing-tai-bo-ke-xie-zuo-ke-hu-duan/">
         </link>
         <updated>2022-08-06T10:19:25.000Z</updated>
         <content type="html"><![CDATA[<p>1.简介<br>
@@ -143,8 +143,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[48.让Windows任务栏秒变Dock！]]></title>
-        <id>https://612901.github.io/post/48rang-windows-ren-wu-lan-miao-bian-dock/</id>
-        <link href="https://612901.github.io/post/48rang-windows-ren-wu-lan-miao-bian-dock/">
+        <id>https://612901.github.io/gridea/post/48rang-windows-ren-wu-lan-miao-bian-dock/</id>
+        <link href="https://612901.github.io/gridea/post/48rang-windows-ren-wu-lan-miao-bian-dock/">
         </link>
         <updated>2022-08-06T09:39:17.000Z</updated>
         <content type="html"><![CDATA[<p>推荐一款小众软件——RoundedTB。分段显示Windows任务栏。</p>
@@ -157,8 +157,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[47.ToDesk安全流畅远控软件正式版上线！]]></title>
-        <id>https://612901.github.io/post/47todesk-an-quan-liu-chang-yuan-kong-ruan-jian-zheng-shi-ban-shang-xian/</id>
-        <link href="https://612901.github.io/post/47todesk-an-quan-liu-chang-yuan-kong-ruan-jian-zheng-shi-ban-shang-xian/">
+        <id>https://612901.github.io/gridea/post/47todesk-an-quan-liu-chang-yuan-kong-ruan-jian-zheng-shi-ban-shang-xian/</id>
+        <link href="https://612901.github.io/gridea/post/47todesk-an-quan-liu-chang-yuan-kong-ruan-jian-zheng-shi-ban-shang-xian/">
         </link>
         <updated>2022-08-06T08:58:56.000Z</updated>
         <content type="html"><![CDATA[<p>今天ToDesk正式版上线啦！欢迎大家体验安全流畅的远程控制。</p>
@@ -198,8 +198,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[46.阿里云盘Win Mac内测版]]></title>
-        <id>https://612901.github.io/post/46a-li-yun-pan-win-mac-nei-ce-ban/</id>
-        <link href="https://612901.github.io/post/46a-li-yun-pan-win-mac-nei-ce-ban/">
+        <id>https://612901.github.io/gridea/post/46a-li-yun-pan-win-mac-nei-ce-ban/</id>
+        <link href="https://612901.github.io/gridea/post/46a-li-yun-pan-win-mac-nei-ce-ban/">
         </link>
         <updated>2022-08-06T08:31:24.000Z</updated>
         <content type="html"><![CDATA[<p>群友分享了阿里云盘内测客户端，包含Windows &amp; macOS系统。</p>
@@ -226,8 +226,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[45.联想电脑管家-纯净如新，始终如一]]></title>
-        <id>https://612901.github.io/post/45lian-xiang-dian-nao-guan-jia-chun-jing-ru-xin-shi-zhong-ru-yi/</id>
-        <link href="https://612901.github.io/post/45lian-xiang-dian-nao-guan-jia-chun-jing-ru-xin-shi-zhong-ru-yi/">
+        <id>https://612901.github.io/gridea/post/45lian-xiang-dian-nao-guan-jia-chun-jing-ru-xin-shi-zhong-ru-yi/</id>
+        <link href="https://612901.github.io/gridea/post/45lian-xiang-dian-nao-guan-jia-chun-jing-ru-xin-shi-zhong-ru-yi/">
         </link>
         <updated>2022-08-06T07:16:41.000Z</updated>
         <content type="html"><![CDATA[<p>笔者使用联想电脑管家，感觉还不错，现推荐给大家。</p>
@@ -250,8 +250,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[44.华为浏览器PC版]]></title>
-        <id>https://612901.github.io/post/44hua-wei-liu-lan-qi-pc-ban/</id>
-        <link href="https://612901.github.io/post/44hua-wei-liu-lan-qi-pc-ban/">
+        <id>https://612901.github.io/gridea/post/44hua-wei-liu-lan-qi-pc-ban/</id>
+        <link href="https://612901.github.io/gridea/post/44hua-wei-liu-lan-qi-pc-ban/">
         </link>
         <updated>2022-08-06T06:49:36.000Z</updated>
         <content type="html"><![CDATA[<p><span style="color: #000;"><span style="font-family: &amp;quot;">在2021款MateBook发布会上，发布的华为浏览器PC版，</span></span><span style="color: #000;"><span style="font-family: &amp;quot;">终于在官网上线了，</span></span><span style="color: #000;"><span style="font-family: &amp;quot;">华为</span></span><span style="color: #000;"><span style="font-family: &amp;quot;">浏览器基于Chromium内核。</span></span><span style="color: #000;"><span style="font-family: &amp;quot;">目前还不支持扩展的安装，优点是比较清爽，占用系统资源较少。</span></span></p>
@@ -266,8 +266,8 @@ Markdown:知道你钟爱 Markdown 写作，我们也是<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[43.ZY Player-免费开源资源播放器]]></title>
-        <id>https://612901.github.io/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/</id>
-        <link href="https://612901.github.io/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/">
+        <id>https://612901.github.io/gridea/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/</id>
+        <link href="https://612901.github.io/gridea/post/43zy-player-mian-fei-kai-yuan-zi-yuan-bo-fang-qi/">
         </link>
         <updated>2022-08-05T10:37:50.000Z</updated>
         <content type="html"><![CDATA[<p>给大家推荐一款资源播放器：ZY Player(免费开源)</p>
