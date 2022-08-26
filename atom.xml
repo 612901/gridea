@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>gridea</id>
+    <title>无影博客</title>
+    <updated>2022-08-26T22:58:10.377Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="gridea"/>
+    <link rel="self" href="gridea/atom.xml"/>
+    <rights>All rights reserved 2022, 无影博客</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://gridea/1</id>
+        <link href="https://gridea/1"/>
+        <updated>2022-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1
+]]></summary>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+</feed>
